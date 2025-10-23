@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.question {
+    margin-bottom: 15px;
+}
+
+input, select {
+    margin-top: 5px;
+}
+
+#results {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
