@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS/TOEFL Prep</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+
+<body>
+    <div id="canvas-container"></div>
+
+    <div class="app-container">
+        <nav class="sidebar">
+            <div class="logo">
+                <i class="fa-solid fa-graduation-cap"></i> PrepMaster
+            </div>
+            <ul class="nav-links">
+                <li class="active" data-tab="dashboard">
+                    <i class="fa-solid fa-house"></i> Dashboard
+                </li>
+                <li data-tab="reading">
+                    <i class="fa-solid fa-book-open"></i> Reading
+                </li>
+                <li data-tab="writing">
+                    <i class="fa-solid fa-pen-nib"></i> Writing
+                </li>
+                <li data-tab="listening">
+                    <i class="fa-solid fa-headphones"></i> Listening
+                </li>
+                <li data-tab="speaking">
+                    <i class="fa-solid fa-microphone"></i> Speaking
+                </li>
+                <li data-tab="dictation">
+                    <i class="fa-solid fa-keyboard"></i> Dictation
+                </li>
+            </ul>
+        </nav>
+
+        <main class="content">
+            <section id="dashboard" class="tab-content active">
+                <h1>Welcome Back!</h1>
+                <p>Select a module to start practicing.</p>
+                <div class="stats-cards">
+                    <div class="card">
+                        <h3>Reading</h3>
+                        <p>Access Cambridge & TOEFL PDFs</p>
+                    </div>
+                    <div class="card">
+                        <h3>Writing</h3>
+                        <p>Practice essays with timer</p>
+                    </div>
+                    <div class="card">
+                        <h3>Speaking</h3>
+                        <p>AI-powered evaluation</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="reading" class="tab-content">
+                <h2>Reading Materials</h2>
+                <div class="material-filters">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="IELTS">IELTS</button>
+                    <button class="filter-btn" data-filter="TOEFL">TOEFL</button>
+                </div>
+                <div id="pdf-list" class="grid-list">
+                    <!-- PDF items will be injected here -->
+                </div>
+                <div id="pdf-viewer-modal" class="modal hidden">
+                    <div class="modal-content">
+                        <span class="close-modal">&times;</span>
+                        <iframe id="pdf-frame" src=""></iframe>
+                    </div>
+                </div>
+            </section>
+
+            <section id="writing" class="tab-content">
+                <h2>Writing Practice</h2>
+                <div class="writing-workspace">
+                    <div class="timer-controls">
+                        <span id="timer">60:00</span>
+                        <button id="start-timer">Start</button>
+                        <button id="reset-timer">Reset</button>
+                    </div>
+                    <textarea id="writing-area" placeholder="Start typing your essay here..."></textarea>
+                    <div class="word-count">Words: <span id="word-counter">0</span></div>
+                </div>
+            </section>
+
+            <section id="listening" class="tab-content">
+                <h2>Listening Practice</h2>
+                <div class="listening-container">
+                    <div class="audio-selection">
+                        <h3>Select Track</h3>
+                        <div id="audio-list" class="list-group">
+                            <!-- Audio items injected here -->
+                        </div>
+                    </div>
+                    <div class="listening-workspace">
+                        <div class="audio-player-container">
+                            <h3 id="current-track-name">Select a track to play</h3>
+                            <audio id="main-audio-player" controls>
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                        <div class="answer-sheet">
+                            <h3>Answer Sheet</h3>
+                            <div class="questions-grid" id="questions-container">
+                                <!-- Questions will be generated dynamically -->
+                            </div>
+                            <div id="evaluation-controls" class="hidden"
+                                style="margin-top: 1rem; padding: 1rem; background: rgba(0,0,0,0.2); border-radius: 8px;">
+                                <div
+                                    style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                    <h3>Evaluation Result</h3>
+                                    <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent-color);">
+                                        Score: <span id="listening-score">0</span> / <span id="total-questions">0</span>
+                                    </div>
+                                </div>
+                                <button id="calculate-score-btn" class="action-btn"
+                                    style="background: #3b82f6;">Calculate Score</button>
+                            </div>
+                            <button id="check-answers-btn" class="action-btn">Start Evaluation</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="speaking" class="tab-content">
+                <h2>Speaking Practice</h2>
+                <div class="speaking-interface">
+                    <div class="visualizer">
+                        <!-- Audio visualizer placeholder -->
+                        <div class="wave"></div>
+                        <div class="wave"></div>
+                        <div class="wave"></div>
+                    </div>
+                    <div class="controls">
+                        <button id="record-btn"><i class="fa-solid fa-microphone"></i> Record</button>
+                        <button id="stop-btn" disabled><i class="fa-solid fa-stop"></i> Stop</button>
+                    </div>
+                    <div id="speaking-result" class="hidden">
+                        <h3>Evaluation</h3>
+                        <p>Score: <span id="score-val">-</span></p>
+                        <p>Feedback: <span id="feedback-val">-</span></p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="dictation" class="tab-content">
+                <h2>Advanced Dictation Practice</h2>
+                <div class="dictation-container">
+                    <!-- Audio Selection -->
+                    <div class="dictation-sidebar">
+                        <h3>Select Audio</h3>
+                        <div class="dictation-mode-selector">
+                            <h4>Practice Mode</h4>
+                            <label><input type="radio" name="dictation-mode" value="standard" checked> Standard Dictation</label>
+                            <label><input type="radio" name="dictation-mode" value="shadow"> Shadow Dictation</label>
+                            <label><input type="radio" name="dictation-mode" value="summary"> Summarization</label>
+                            <label><input type="radio" name="dictation-mode" value="gapfill"> Gap-Fill</label>
+                        </div>
+                        <div class="mode-help">
+                            <small style="color: #94a3b8; font-style: italic;">
+                                <strong>Standard:</strong> Word-for-word transcription<br>
+                                <strong>Shadow:</strong> Speak along while writing<br>
+                                <strong>Summary:</strong> Capture main ideas<br>
+                                <strong>Gap-Fill:</strong> Fill in blanks (use ____ in transcript)
+                            </small>
+                        </div>
+                        <div id="dictation-audio-list" class="list-group">
+                            <!-- Audio items injected here -->
+                        </div>
+                    </div>
+
+                    <!-- Main Workspace -->
+                    <div class="dictation-workspace">
+                        <!-- Audio Player with Pass Controls -->
+                        <div class="dictation-player-section">
+                            <h3 id="dictation-track-name">Select an audio track</h3>
+                            <audio id="dictation-audio-player" controls></audio>
+                            <div class="pass-controls">
+                                <div class="pass-indicator">
+                                    <span class="pass-badge" data-pass="1">1st Pass</span>
+                                    <span class="pass-badge" data-pass="2">2nd Pass</span>
+                                    <span class="pass-badge" data-pass="3">3rd Pass</span>
+                                </div>
+                                <div class="pass-buttons">
+                                    <button id="start-pass-1" class="pass-btn active">Start 1st Pass</button>
+                                    <button id="start-pass-2" class="pass-btn" disabled>Start 2nd Pass</button>
+                                    <button id="start-pass-3" class="pass-btn" disabled>Start 3rd Pass</button>
+                                    <button id="replay-audio" class="pass-btn"><i class="fa-solid fa-redo"></i> Replay</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Dictation Input Area -->
+                        <div class="dictation-input-section">
+                            <div class="dictation-tabs">
+                                <button class="dict-tab active" data-tab="transcription">Transcription</button>
+                                <button class="dict-tab" data-tab="transcript">Transcript</button>
+                                <button class="dict-tab" data-tab="comparison">Comparison</button>
+                                <button class="dict-tab" data-tab="paraphrase">Paraphrase</button>
+                            </div>
+
+                            <!-- Transcription Tab -->
+                            <div id="tab-transcription" class="dict-tab-content active">
+                                <textarea id="dictation-input" placeholder="Write down exactly what you hear... (1st Pass)"></textarea>
+                                <div class="dictation-stats">
+                                    <span>Words: <span id="dict-word-count">0</span></span>
+                                    <span>Current Pass: <span id="current-pass-display">1</span></span>
+                                </div>
+                            </div>
+
+                            <!-- Transcript Tab (for reference) -->
+                            <div id="tab-transcript" class="dict-tab-content">
+                                <textarea id="reference-transcript" readonly placeholder="Reference transcript will appear here after you upload or enter it...&#10;&#10;For Gap-Fill mode, mark gaps with '____' (four underscores).&#10;Example: 'The ____ is a ____ animal.'"></textarea>
+                                <div class="transcript-upload">
+                                    <label>Upload Transcript (optional):</label>
+                                    <input type="file" id="transcript-file" accept=".txt">
+                                    <button id="load-transcript-btn">Load Transcript</button>
+                                    <button id="enter-transcript-btn">Enter Manually</button>
+                                    <button id="generate-gap-fill-btn" style="background: #f59e0b;">Generate Gap-Fill Template</button>
+                                </div>
+                                <div class="transcript-help">
+                                    <small style="color: #94a3b8;">
+                                        <strong>Tip:</strong> Upload or paste the full transcript here. For gap-fill practice, 
+                                        replace words you want to remove with "____" (four underscores).
+                                    </small>
+                                </div>
+                            </div>
+
+                            <!-- Comparison Tab -->
+                            <div id="tab-comparison" class="dict-tab-content">
+                                <div class="comparison-header">
+                                    <h3>Error Analysis</h3>
+                                    <button id="compare-btn" class="action-btn">Compare with Transcript</button>
+                                </div>
+                                <div id="error-summary" class="hidden">
+                                    <div class="error-stats">
+                                        <div class="stat-card">
+                                            <span class="stat-label">Total Errors</span>
+                                            <span class="stat-value" id="total-errors">0</span>
+                                        </div>
+                                        <div class="stat-card">
+                                            <span class="stat-label">Grammar</span>
+                                            <span class="stat-value" id="grammar-errors">0</span>
+                                        </div>
+                                        <div class="stat-card">
+                                            <span class="stat-label">Spelling</span>
+                                            <span class="stat-value" id="spelling-errors">0</span>
+                                        </div>
+                                        <div class="stat-card">
+                                            <span class="stat-label">Listening</span>
+                                            <span class="stat-value" id="listening-errors">0</span>
+                                        </div>
+                                        <div class="stat-card">
+                                            <span class="stat-label">Vocabulary</span>
+                                            <span class="stat-value" id="vocab-errors">0</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="comparison-display" class="comparison-text">
+                                    <div id="user-text-display" class="text-display"></div>
+                                    <div id="correct-text-display" class="text-display"></div>
+                                </div>
+                            </div>
+
+                            <!-- Paraphrase Tab -->
+                            <div id="tab-paraphrase" class="dict-tab-content">
+                                <h3>Rewrite in Your Own Words</h3>
+                                <textarea id="paraphrase-input" placeholder="Rewrite the passage in your own words..."></textarea>
+                                <div class="paraphrase-actions">
+                                    <button id="save-paraphrase-btn" class="action-btn">Save Paraphrase</button>
+                                    <button id="clear-paraphrase-btn">Clear</button>
+                                </div>
+                                <div id="paraphrase-saved" class="hidden">
+                                    <h4>Saved Paraphrases</h4>
+                                    <div id="paraphrase-list"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/visuals.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
