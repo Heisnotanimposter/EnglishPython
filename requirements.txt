@@ -1,3 +1,4 @@
 Flask
 flask-cors
 language-tool-python
+nltk
