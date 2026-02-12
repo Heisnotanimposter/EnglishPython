@@ -18,6 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // Keywords Module
+    initKeywordsModule();
+
     // Reading Module
     const pdfList = document.getElementById('pdf-list');
     const modal = document.getElementById('pdf-viewer-modal');
@@ -761,3 +764,307 @@ document.addEventListener('DOMContentLoaded', () => {
         updateParaphraseList();
     };
 });
+
+// Keywords Module
+function initKeywordsModule() {
+    const questionInput = document.getElementById('question-input');
+    const textInput = document.getElementById('text-input');
+    const extractBtn = document.getElementById('extract-keywords-btn');
+    const analyzeBtn = document.getElementById('analyze-matches-btn');
+    const clearBtn = document.getElementById('clear-keywords-btn');
+    
+    const resultTabs = document.querySelectorAll('.result-tab');
+    const resultTabContents = document.querySelectorAll('.result-tab-content');
+    
+    let currentExtraction = null;
+    let currentAnalysis = null;
+
+    // Tab switching
+    resultTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            resultTabs.forEach(t => t.classList.remove('active'));
+            resultTabContents.forEach(c => c.classList.remove('active'));
+            
+            tab.classList.add('active');
+            const tabId = tab.getAttribute('data-tab');
+            document.getElementById(`tab-${tabId}`).classList.add('active');
+        });
+    });
+
+    // Extract keywords
+    extractBtn.addEventListener('click', () => {
+        const question = questionInput.value.trim();
+        if (!question) {
+            showNotification('Please enter a question', 'error');
+            return;
+        }
+
+        extractBtn.disabled = true;
+        extractBtn.textContent = 'Extracting...';
+
+        fetch('/api/keywords/extract', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ question })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                throw new Error(data.error);
+            }
+            currentExtraction = data;
+            displayExtractionResults(data);
+            showNotification('Keywords extracted successfully!', 'success');
+        })
+        .catch(error => {
+            showNotification(`Error: ${error.message}`, 'error');
+        })
+        .finally(() => {
+            extractBtn.disabled = false;
+            extractBtn.textContent = 'Extract Keywords';
+        });
+    });
+
+    // Analyze matches
+    analyzeBtn.addEventListener('click', () => {
+        const question = questionInput.value.trim();
+        const text = textInput.value.trim();
+        
+        if (!question || !text) {
+            showNotification('Please enter both question and text', 'error');
+            return;
+        }
+
+        analyzeBtn.disabled = true;
+        analyzeBtn.textContent = 'Analyzing...';
+
+        fetch('/api/keywords/analyze', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ question, text })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                throw new Error(data.error);
+            }
+            currentAnalysis = data;
+            displayAnalysisResults(data);
+            showNotification('Analysis completed!', 'success');
+        })
+        .catch(error => {
+            showNotification(`Error: ${error.message}`, 'error');
+        })
+        .finally(() => {
+            analyzeBtn.disabled = false;
+            analyzeBtn.textContent = 'Analyze Matches';
+        });
+    });
+
+    // Clear inputs
+    clearBtn.addEventListener('click', () => {
+        questionInput.value = '';
+        textInput.value = '';
+        currentExtraction = null;
+        currentAnalysis = null;
+        
+        // Reset to placeholder
+        document.getElementById('extraction-results').innerHTML = `
+            <div class="result-placeholder">
+                <i class="fa-solid fa-search"></i>
+                <p>Enter a question and click "Extract Keywords" to see the just-the-word analysis.</p>
+            </div>
+        `;
+        
+        document.getElementById('matches-results').innerHTML = `
+            <div class="result-placeholder">
+                <i class="fa-solid fa-align-center"></i>
+                <p>Extract keywords first, then analyze matches to see where they appear in the text.</p>
+            </div>
+        `;
+        
+        document.getElementById('analysis-results').innerHTML = `
+            <div class="result-placeholder">
+                <i class="fa-solid fa-chart-line"></i>
+                <p>Complete analysis will show keyword extraction, text matches, and statistics.</p>
+            </div>
+        `;
+        
+        showNotification('Inputs cleared', 'info');
+    });
+
+    function displayExtractionResults(data) {
+        const container = document.getElementById('extraction-results');
+        
+        const keywordsHtml = data.keywords.map(keyword => {
+            const synonyms = data.synonyms[keyword] || [];
+            const synonymsHtml = synonyms.length > 0 
+                ? `<div class="synonym-list">${synonyms.slice(0, 5).map(s => `<span class="synonym-tag">${s}</span>`).join('')}</div>`
+                : '';
+            
+            return `
+                <div class="keyword-result">
+                    <h4><span class="keyword-tag">${keyword}</span></h4>
+                    ${synonymsHtml}
+                </div>
+            `;
+        }).join('');
+
+        const filteredHtml = data.filtered_words.length > 0 
+            ? `<div class="keyword-result">
+                <h4>Filtered Words (${data.filtered_words.length})</h4>
+                <div class="filtered-words">${data.filtered_words.map(w => `<span class="filtered-word">${w}</span>`).join('')}</div>
+               </div>`
+            : '';
+
+        container.innerHTML = `
+            <div class="keyword-result">
+                <h4>Extracted Keywords (${data.keywords.length})</h4>
+                <div class="keyword-list">${data.keywords.map(k => `<span class="keyword-tag">${k}</span>`).join('')}</div>
+            </div>
+            ${keywordsHtml}
+            ${filteredHtml}
+            <div class="analysis-summary">${data.summary}</div>
+        `;
+    }
+
+    function displayAnalysisResults(data) {
+        const container = document.getElementById('analysis-results');
+        
+        // Statistics
+        const statsHtml = `
+            <div class="statistics-grid">
+                <div class="stat-item">
+                    <div class="stat-value">${data.statistics.total_keywords}</div>
+                    <div class="stat-label">Total Keywords</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${data.statistics.keywords_with_matches}</div>
+                    <div class="stat-label">Keywords with Matches</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${data.statistics.match_coverage}%</div>
+                    <div class="stat-label">Match Coverage</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${data.statistics.total_matches}</div>
+                    <div class="stat-label">Total Matches</div>
+                </div>
+            </div>
+            <div class="match-coverage">
+                <div class="coverage-bar">
+                    <div class="coverage-fill" style="width: ${data.statistics.match_coverage}%"></div>
+                </div>
+                <div class="coverage-percentage">${data.statistics.match_coverage}%</div>
+            </div>
+        `;
+
+        // Keywords with matches
+        const matchesHtml = Object.entries(data.matches).map(([keyword, matches]) => {
+            if (matches.length === 0) return '';
+            
+            const matchesList = matches.map(match => `
+                <div class="match-item">
+                    <div class="match-type">${match.type}: ${match.word}</div>
+                    <div class="match-context">...${match.context}...</div>
+                </div>
+            `).join('');
+
+            return `
+                <div class="keyword-result">
+                    <h4><span class="keyword-tag">${keyword}</span> (${matches.length} matches)</h4>
+                    ${matchesList}
+                </div>
+            `;
+        }).join('');
+
+        container.innerHTML = `
+            ${statsHtml}
+            <div class="keyword-result">
+                <h4>Keywords and Their Matches</h4>
+                ${matchesHtml || '<p>No matches found in the text.</p>'}
+            </div>
+        `;
+
+        // Also update the matches tab
+        displayMatchesResults(data);
+    }
+
+    function displayMatchesResults(data) {
+        const container = document.getElementById('matches-results');
+        
+        const matchesHtml = Object.entries(data.matches).map(([keyword, matches]) => {
+            if (matches.length === 0) return '';
+            
+            const matchesList = matches.map(match => `
+                <div class="match-item">
+                    <div class="match-type">${match.type}: ${match.word}</div>
+                    <div class="match-context">...${match.context}...</div>
+                </div>
+            `).join('');
+
+            return `
+                <div class="keyword-result">
+                    <h4><span class="keyword-tag">${keyword}</span> (${matches.length} matches)</h4>
+                    ${matchesList}
+                </div>
+            `;
+        }).join('');
+
+        container.innerHTML = matchesHtml || '<div class="result-placeholder"><p>No matches found in the text.</p></div>';
+    }
+
+    function showNotification(message, type = 'info') {
+        // Create notification element
+        const notification = document.createElement('div');
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            color: white;
+            font-weight: bold;
+            z-index: 10000;
+            animation: slideIn 0.3s ease;
+        `;
+        
+        // Set background color based on type
+        const colors = {
+            success: '#10b981',
+            error: '#ef4444',
+            info: '#3b82f6',
+            warning: '#f59e0b'
+        };
+        notification.style.background = colors[type] || colors.info;
+        notification.textContent = message;
+        
+        document.body.appendChild(notification);
+        
+        // Remove after 3 seconds
+        setTimeout(() => {
+            notification.style.animation = 'slideOut 0.3s ease';
+            setTimeout(() => {
+                document.body.removeChild(notification);
+            }, 300);
+        }, 3000);
+    }
+
+    // Add slide animations
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes slideIn {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        @keyframes slideOut {
+            from { transform: translateX(0); opacity: 1; }
+            to { transform: translateX(100%); opacity: 0; }
+        }
+    `;
+    document.head.appendChild(style);
+}
