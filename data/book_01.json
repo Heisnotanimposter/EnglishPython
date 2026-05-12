@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge Practice Tests for IELTS 1",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "A spark, a flint: How fire leapt to life",
+          "content": "To early man, fire was a divine gift randomly delivered in the form of lightning, forest fire or burning lava. Unable to make flame for themselves, the earliest peoples probably stored fire by keeping slow burning logs alight or by carrying charcoal in pots. How and where man learnt how to produce flame at will is unknown. It was probably a secondary invention, accidentally made during tool-making operations with wood or stone. Studies of primitive societies suggest that the earliest method of making fire was through friction. European peasants would insert a wooden drill in a round hole and rotate it briskly between their palms. This process could be speeded up by wrapping a cord around the drill and pulling on each end. The Ancient Greeks used lenses or concave mirrors to concentrate the sun\u2019s rays and burning glasses were also used by Mexican Aztecs and the Chinese. Percussion methods of fire-lighting date back to Paleolithic times, when some Stone Age tool-makers discovered that chipping flints produced sparks. The technique became more efficient after the discovery of iron pyrites and later steel. In the 17th century, the first chemical matches were developed, leading to the modern safety match in the mid-19th century."
+        },
+        {
+          "passage_number": 2,
+          "title": "Showboat as Ark",
+          "content": "The role of the modern zoo has undergone a radical transformation. No longer mere spectacles of public entertainment, many zoos have reinvented themselves as centers of scientific research and conservation. The primary goal of these 'modern arks' is to preserve biodiversity through captive breeding programs for endangered species. Critics argue that animals in captivity suffer from boredom and lack of natural habitat, but proponents point to success stories like the reintroduction of the Arabian Oryx and the Golden Lion Tamarin into the wild. To be successful, zoos must balance the need for public funding\u2014which requires high visitor numbers and charismatic 'showboat' animals\u2014with the rigorous requirements of genetic management and habitat preservation. The challenge lies in making zoos more than just museums of living things, but active participants in the global fight against extinction."
+        },
+        {
+          "passage_number": 3,
+          "title": "Architecture \u2014 Reaching for the Sky",
+          "content": "The evolution of the skyscraper is a testament to human ingenuity and the convergence of several technological breakthroughs. Until the late 19th century, the height of buildings was limited by the weight of masonry walls and the physical endurance of people climbing stairs. Two key inventions changed everything: the safety elevator, pioneered by Elisha Otis, and the development of steel-frame construction. Steel allowed the weight of the building to be supported by an internal skeleton rather than thick, load-bearing walls, freeing up space for windows and light. Early skyscrapers in Chicago and New York competed for the title of 'world's tallest,' leading to the iconic Art Deco designs of the Chrysler Building and the Empire State Building. Modern architecture now focuses on 'green' skyscrapers that utilize renewable energy and smart materials, as the race to reach for the sky continues in rapidly developing cities across Asia and the Middle East."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "OFFICER: Good morning. What can I do for you?\nMARY: I\u2019ve lost my briefcase.\nOFFICER: I see. Well, I\u2019ll take down some details. First of all, can you describe it for me?\nMARY: It's a black leather briefcase, quite small. It has a gold lock and my initials, 'M.W.', on the side.\nOFFICER: And what did you have inside it?\nMARY: There were some important papers for work, a few pens, and a novel I was reading.\nOFFICER: Where were you when you lost it?\nMARY: I was standing at the bus stop near the main gate of the university.\nOFFICER: And what time was that?\nMARY: It was about 4:30 in the afternoon.\nOFFICER: Right. I'll need your name and address...\nMARY: It's Mary Walker. I live at Flat 2, 41 Canterbury Road."
+        },
+        {
+          "section_number": 2,
+          "transcript": "NEWSREADER: Good evening. Here are the news headlines. The Government has announced a plan to give 250 million dollars to assist farmers suffering from the worst drought in over fifty years. This money was originally intended for the development of Sydney\u2019s third runway but has now been re-allocated. However, some farmer representatives say the money is too little, too late. In other news, an aeroplane carrying 76 passengers was forced to make an emergency landing at the national airport just fifteen minutes after take-off. Fortunately, all passengers were rescued by emergency crews. The operation was aided by the clear weather conditions. Passengers expressed their gratitude to the pilot and crew for their quick thinking, though many were distressed as they lost all their luggage in the evacuation."
+        },
+        {
+          "section_number": 3,
+          "transcript": "STUDENT: Excuse me, I\u2019m looking for the School of Economics.\nADVISOR: You\u2019ve found it. Are you here for the orientation meeting?\nSTUDENT: Yes, I am. Is it in here?\nADVISOR: Well, actually, the main meeting took place yesterday. You\u2019ve missed the official welcome, but I can go over the requirements with you. Attendance at lectures is closely monitored, especially for first-year students. You are expected to attend all tutorials, which take place three afternoons a week. Your main lecturer will be Dr. Robertson. For your assessment, you\u2019ll need to prepare a tutorial paper on a given topic. You\u2019ll speak for about 25 minutes and then lead a discussion. You also have an essay to write; the topic is usually quite broad. Most of the books you'll need are in the Reserve section of the library. The course really focuses on macroeconomics this semester."
+        },
+        {
+          "section_number": 4,
+          "transcript": "SPEAKER: Welcome to the Faculty of Arts and Social Sciences. My name is Professor Smith, and I\u2019m the Dean of the Faculty. The Faculty is divided into several departments, including History, Sociology, and Psychology. In your first semester, you will all take core subjects in Psychology, Sociology, and Statistics. We find that many students have problems with Statistics and Essay Writing initially, but we have support tutors to help you. My office is open for student visits on Friday mornings if you have any concerns. I\u2019d like to emphasize that tutorials are a vital part of your learning; they provide a chance to share views and debate ideas. When writing your essays, please remember to cite your sources correctly. Plagiarism is a very serious offence at this university and can lead to expulsion. Our aim is to introduce you to the high expectations of university study and guide you toward academic success."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The table below shows the changes in the age profile of the population of Italy between 1950 and 2050. Summarize the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+        },
+        {
+          "task_number": 2,
+          "prompt": "Modern technology has made it possible for many people to work from home or at least to spend less time in the office. This has many advantages for both the employer and the employee. To what extent do you agree or disagree with this opinion? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+        }
+      ]
+    }
+  ]
+}
