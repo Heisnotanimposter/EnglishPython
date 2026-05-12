@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 3",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "THE ROCKET - FROM EAST TO WEST",
+          "content": "A. The concept of the rocket, or rather the mechanism behind the idea of propelling an object into the air, has been around for well over two thousand years. However, it wasn\u2019t until the discovery of the reaction principle, which was the key to space travel and so represents one of the great milestones in the history of scientific thought, that rocket technology was able to develop. Not only did it solve a problem that had intrigued man for ages, but, more importantly, it literally opened the door to exploration of the universe.\n\nB. An intellectual breakthrough, brilliant though it may be, does not automatically ensure that the transition is made from theory to practice. Despite the fact that rockets had been used sporadically for several hundred years, they remained a relatively minor artefact of civilisation until the twentieth century. Prodigious efforts, accelerated during two world wars, were required before the technology of primitive rocketry could be translated into the reality of sophisticated astronauts. It is strange that the rocket was generally ignored by writers of fiction to transport their heroes to mysterious realms beyond the Earth, even though it had been commonly used in fireworks displays in China since the thirteenth century. The reason is that nobody associated the reaction principle with the idea of travelling through space to a neighbouring world.\n\nC. A simple analogy can help us to understand how a rocket operates. It is much like a machine gun mounted on the rear of a boat. In reaction to the backward discharge of bullets, the gun, and hence the boat, move forwards. A rocket motor\u2019s \u2018bullets\u2019 are minute, high-speed particles produced by burning propellants in a suitable chamber. The reaction to the ejection of these small particles causes the rocket to move forwards. There is evidence that the reaction principle was applied practically well before the rocket was invented. In his Noctes Atticae or Greek Nights, Aulus Gellius describes \u2018the pigeon of Archytas\u2019, an invention dating back to about 360 BC. Cylindrical in shape, made of wood, and hanging from string, it was moved to and fro by steam blowing out from small exhaust ports at either end. The reaction to the discharging steam provided the bird with motive power.\n\nD. The invention of rockets is linked inextricably with the invention of \u2018black powder\u2019. Most historians of technology credit the Chinese with its discovery. They base their belief on studies of Chinese writings or on the notebooks of early Europeans who settled in or made long visits to China to study its history and civilisation. It is probable that, some time in the tenth century, black powder was first compounded from its basic ingredients of saltpetre, charcoal and sulphur. But this does not mean that it was immediately used to propel rockets. By the thirteenth century, powder-propelled fire arrows had become rather common. The Chinese relied on this type of technological development to produce incendiary projectiles of many sorts, explosive grenades and possibly cannons to repel their enemies. One such weapon was the \u2018basket of fire\u2019 or, as directly translated from Chinese, the \u2018arrows like flying leopards\u2019. The 0.7 metre-long arrows, each with a long tube of gunpowder attached near the point of each arrow, could be fired from a long, octagonal-shaped basket at the same time and had a range of 400 paces. Another weapon was the \u2018arrow as a flying sabre\u2019, which could be fired from crossbows. The rocket, placed in a similar position to other rocket-propelled arrows, was designed to increase the range. A small iron weight was attached to the 1.5m bamboo shaft, just below the feathers, to increase the arrow\u2019s stability by moving the centre of gravity to a position below the rocket. At a similar time, the Arabs had developed the \u2018egg which moves and burns\u2019. This \u2018egg\u2019 was apparently full of gunpowder and stabilised by a 1.5m tail. It was fired using two rockets attached to either side of this tail.\n\nE. It was not until the eighteenth century that Europe became seriously interested in the possibilities of using the rocket itself as a weapon of war and not just to propel other weapons. Prior to this, rockets were used only in pyrotechnic displays. The incentive for the more aggressive use of rockets came not from within the European continent but from far-away India, whose leaders had built up a corps of rocketeers and used rockets successfully against the British in the late eighteenth century. The Indian rockets used against the British were described by a British Captain serving in India as \u2018an iron envelope about 200 millimetres long and 40 millimetres in diameter with sharp points at the top and a 3m-long bamboo guiding stick\u2019. In the early nineteenth century the British began to experiment with incendiary barrage rockets. The British rocket differed from the Indian version in that it was completely encased in a stout, iron cylinder, terminating in a conical head, measuring one metre in diameter and having a stick almost five metres long and constructed in such a way that it could be firmly attached to the body of the rocket. The Americans developed a rocket, complete with its own launcher, to use against the Mexicans in the mid-nineteenth century. A long cylindrical tube was propped up by two sticks and fastened to the top of the launcher, thereby allowing the rockets to be inserted and lit from the other end. However, the results were sometimes not that impressive as the behaviour of the rockets in flight was less than predictable.\n\nF. Since then, there have been huge developments in rocket technology, often with devastating results in the forum of war. Nevertheless, the modern day space programs owe their success to the humble beginnings of those in previous centuries who developed the foundations of the reaction principle. Who knows what it will be like in the future?"
+        },
+        {
+          "passage_number": 2,
+          "title": "THE RISKS OF CIGARETTE SMOKE",
+          "content": "Discovered in the early 1980s, the link between passive smoking and health risks has become a major area of public health concern... [Content truncated as per snippet limitations, typical of Test 1 Passage 2]"
+        },
+        {
+          "passage_number": 3,
+          "title": "THE WORLD IS OUR OYSTER",
+          "content": "Independent travel is on the rise. More and more people are choosing to explore the world on their own terms... [Content truncated as per snippet limitations, typical of Test 1 Passage 3]"
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "[Section 1: Conversation regarding library enrollment and facilities. Man enquiring about joining the local library and the various services provided including book loans and multimedia.]"
+        },
+        {
+          "section_number": 2,
+          "transcript": "[Section 2: Monologue/Information regarding Health Centres. Mrs. Sutton receives information about Dean End and South Hay Health Centres, doctor availability, and appointment systems.]"
+        },
+        {
+          "section_number": 3,
+          "transcript": "[Section 3: Academic discussion between students and a tutor regarding a marketing assignment and research methods used for a specific project.]"
+        },
+        {
+          "section_number": 4,
+          "transcript": "[Section 4: Lecture on the causes and treatments of back pain, highlighting exercise, bed rest limitations, and the physiological responses of the spine to injury.]"
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries (Japan, Sweden, and USA). Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "In many countries, schools are severe problems with student behaviour. What do you think are the causes of this? Who should be responsible for teaching children to believe in a way that is acceptable to society - parents or teachers?"
+        }
+      ]
+    }
+  ]
+}
