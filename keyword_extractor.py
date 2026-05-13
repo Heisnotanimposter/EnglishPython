@@ -1,8 +1,12 @@
 import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.tag import pos_tag
+try:
+    import nltk
+    from nltk.corpus import stopwords
+    from nltk.tokenize import word_tokenize
+    from nltk.tag import pos_tag
+except ImportError:
+    nltk = None
+    print("Warning: nltk not found. Keyword extraction will be limited.")
 from typing import List, Dict, Tuple, Set
 
 class IELTSKeywordExtractor:
@@ -14,30 +18,31 @@ class IELTSKeywordExtractor:
     
     def __init__(self):
         # Download required NLTK data
-        try:
-            nltk.data.find('tokenizers/punkt')
-        except LookupError:
-            nltk.download('punkt')
-        
-        try:
-            nltk.data.find('tokenizers/punkt_tab')
-        except LookupError:
-            nltk.download('punkt_tab')
-        
-        try:
-            nltk.data.find('corpora/stopwords')
-        except LookupError:
-            nltk.download('stopwords')
-        
-        try:
-            nltk.data.find('taggers/averaged_perceptron_tagger')
-        except LookupError:
-            nltk.download('averaged_perceptron_tagger')
-        
-        try:
-            nltk.data.find('taggers/averaged_perceptron_tagger_eng')
-        except LookupError:
-            nltk.download('averaged_perceptron_tagger_eng')
+        if nltk:
+            try:
+                nltk.data.find('tokenizers/punkt')
+            except LookupError:
+                nltk.download('punkt')
+            
+            try:
+                nltk.data.find('tokenizers/punkt_tab')
+            except LookupError:
+                nltk.download('punkt_tab')
+            
+            try:
+                nltk.data.find('corpora/stopwords')
+            except LookupError:
+                nltk.download('stopwords')
+            
+            try:
+                nltk.data.find('taggers/averaged_perceptron_tagger')
+            except LookupError:
+                nltk.download('averaged_perceptron_tagger')
+            
+            try:
+                nltk.data.find('taggers/averaged_perceptron_tagger_eng')
+            except LookupError:
+                nltk.download('averaged_perceptron_tagger_eng')
         
         # Content word tags (nouns, verbs, adjectives, adverbs)
         self.content_tags = {
@@ -183,10 +188,14 @@ class IELTSKeywordExtractor:
         """
         # Clean and tokenize
         question = self._clean_text(question)
-        tokens = word_tokenize(question)
-        
-        # Get POS tags
-        pos_tags = pos_tag(tokens)
+        if nltk:
+            tokens = word_tokenize(question)
+            pos_tags = pos_tag(tokens)
+        else:
+            # Fallback to simple split if nltk is missing
+            tokens = question.lower().split()
+            # If no pos_tag, treat all as content-like NN for simplicity in fallback
+            pos_tags = [(word, 'NN') for word in tokens]
         
         # Extract content words
         keywords = []
@@ -225,17 +234,34 @@ class IELTSKeywordExtractor:
         text = re.sub(r'[^\w\s\-]', ' ', text)
         return text.strip()
     
+    def _get_synonym_key(self, word: str) -> str:
+        """Map word to its base form in the synonym database"""
+        if word in self.synonym_db:
+            return word
+        
+        # Simple suffix stripping fallback
+        suffixes = ['ing', 'ed', 'es', 's', 'ion', 'ly']
+        for suffix in suffixes:
+            if word.endswith(suffix):
+                stem = word[:-len(suffix)]
+                if stem in self.synonym_db:
+                    return stem
+                if stem + 'e' in self.synonym_db: # e.g. increasing -> increase
+                    return stem + 'e'
+        return word
+
     def _get_synonyms(self, word: str) -> List[str]:
         """Get synonyms for a word from the database"""
         synonyms = []
         
-        # Direct match
-        if word in self.synonym_db:
-            synonyms.extend(self.synonym_db[word])
+        # Direct or stemmed match
+        base_word = self._get_synonym_key(word)
+        if base_word in self.synonym_db:
+            synonyms.extend(self.synonym_db[base_word])
         
-        # Check if word is a synonym of another word
+        # Check if word or base_word is a synonym of another word
         for key, synonym_set in self.synonym_db.items():
-            if word in synonym_set and key not in synonyms:
+            if (word in synonym_set or base_word in synonym_set) and key not in synonyms:
                 synonyms.append(key)
         
         return list(set(synonyms))  # Remove duplicates
