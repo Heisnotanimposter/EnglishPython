@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 10",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "Stepwells",
+          "content": "A. During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, irrigation and animals. However, the significance of stepwells \u2013 or vavs, as they are known locally \u2013 went beyond their practical purpose. B. Unique to the region, stepwells are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, of leisure, and relaxation and of worship for villagers of all castes. Most stepwells are found dotted round the desert areas of Gujarat (where they are called vavs) and Rajasthan (where they are called baori). C. Some were located in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers. As their name suggests, stepwells comprise a series of stone steps descending from the ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated. D. Some stepwells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more like subterranean palaces, entirely enclosed and built from enormous blocks of stone, with ornate pillars, columns and even shrines and niches in the walls where people might pray or offer gifts to the gods. E. One of the most spectacular is the Rani-ki-Vav (the Queen\u2019s Stepwell) in Patan, Gujarat. It was built in the 11th century and is one of the largest and most intricate of its kind. It was forgotten for centuries and became silted up, but was rediscovered in the 1960s and restored by the Archaeological Survey of India. The well is famous for its elaborate carvings, depicting various deities and mythological scenes."
+        },
+        {
+          "passage_number": 2,
+          "title": "European Transport Systems 1990-2010",
+          "content": "It is difficult to conceive of vigorous economic growth without an efficient transport system. Although modern information technologies can reduce the need for physical transport by facilitating teleworking and services, the requirement for transport continues to increase. There are two key factors behind this trend. For passenger transport, the determining factor is the spectacular growth in car use. The number of cars on European Union (EU) roads saw an increase of three million cars each year between 1990 and 2010, and by the year 2010, the European fleet will have doubled. The second main factor is the change in the European economy. Over the last 20 years, the internal frontiers have been abolished, creating a 'stock-free' economy where production has been isolated from its consumption. This has led to a significant increase in the volume of goods transported by road. If nothing is done, the environmental impact of this growth will be unsustainable. The EU's goal is to decouple economic growth from transport growth, encouraging a shift from road to more sustainable modes of transport such as rail and water."
+        },
+        {
+          "passage_number": 3,
+          "title": "The Psychology of Innovation",
+          "content": "Innovation is key to business survival, and companies put substantial resources into inspiring employees to develop new ideas. There are, nevertheless, people who working in isolation can also generate breakthroughs. What then are the conditions that foster an innovative mindset? One of the most important factors is the physical and social environment. Studies have shown that a sense of psychological safety is essential. If employees feel that their ideas will be judged harshly or that failure will be punished, they are less likely to take risks. Conversely, an environment that encourages 'productive failure'\u2014where mistakes are viewed as learning opportunities\u2014tends to be more innovative. Another factor is diversity. Research by Harvard Business School suggests that teams composed of people from different backgrounds and with different skill sets are more likely to come up with creative solutions than homogeneous teams. This is because diverse perspectives challenge conventional thinking and force the group to consider a wider range of possibilities. Finally, leadership plays a crucial role. Leaders who are 'quiet' and allow their team members to take the lead often see higher levels of innovation than those who are more directive."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "AGENT: Good morning, World Tours. My name is Jamie. How can I help you?\nCUSTOMER: Oh, hello. I\u2019m interested in the self-drive tours you visit in Central Canada.\nAGENT: Yes, we have several of those. For instance, there\u2019s one that starts in Montreal and ends in Quebec.\nCUSTOMER: That sounds interesting. How long is the tour?\nAGENT: It\u2019s a 12-day tour. You spend the first two days in Montreal, then you pick up your rental car and drive to Ottawa.\nCUSTOMER: And is the car included in the price?\nAGENT: Yes, it is. The price also covers your accommodation and a detailed itinerary with maps.\nCUSTOMER: What about the cost?\nAGENT: For two people sharing, it\u2019s 980 pounds per person. That's for the standard package. We also have a premium package for 1,150 pounds which includes entry to some of the national parks.\nCUSTOMER: I think the standard one would be fine. Can you tell me more about the route?"
+        },
+        {
+          "section_number": 2,
+          "transcript": "GUIDE: Welcome to Eureka!, the National Children\u2019s Museum. My name is Sarah, and I\u2019m going to give you a brief overview of what we have here. Eureka! is not like a traditional museum where you just look at things; it\u2019s a place where children can learn through play. We have over 400 interactive exhibits spread across several galleries. In the 'All About Me' gallery, children can learn about how the human body works by performing 'surgery' on a dummy or seeing how fast they can run. Then there\u2019s the 'Town Square', which is a miniature version of a real town. Children can go to the bank, the supermarket, or the post office and pretend to be adults. It\u2019s designed to help them understand how society functions. We also have an outdoor area called the 'Wonder Walk' where kids can explore nature. Please remember that all children must be accompanied by an adult at all times."
+        },
+        {
+          "section_number": 3,
+          "transcript": "TUTOR: Hello, Mark and Linda. So, how is your project on urban pigeons coming along?\nMARK: It\u2019s going okay, but we\u2019re having some trouble with the data collection.\nLINDA: Yeah, we initially thought we could just count the pigeons in the city square, but they move around so much it\u2019s hard to get an accurate number.\nTUTOR: That\u2019s a common problem in field research. Have you thought about using a different sampling method? Maybe look at specific nesting sites instead?\nMARK: That\u2019s a good idea. We also noticed that the pigeon population seems to be higher near the fast-food outlets.\nLINDA: We want to investigate whether the availability of human food scraps is the primary reason they congregate there.\nTUTOR: Interesting. You\u2019ll need to design a survey to observe feeding habits. What about your literature review? Have you looked at the studies done in London and New York?\nMARK: We\u2019ve started on those. The New York study suggested that architectural features also play a big role in where they nest."
+        },
+        {
+          "section_number": 4,
+          "transcript": "LECTURER: Today we\u2019re going to look at the life and work of the Norwegian explorer Thor Heyerdahl. Heyerdahl is best known for his 1947 Kon-Tiki expedition, in which he sailed a raft from South America to the Tuamotu Islands in Polynesia. His goal was to prove that it was possible for ancient people from South America to have settled the Polynesian islands. The raft, named Kon-Tiki, was built using only materials and technologies that would have been available to people at that time, such as balsa wood logs and hemp ropes. Despite the skepticism of many scientists, the voyage was a success, lasting 101 days and covering over 4,000 miles. While modern DNA evidence has since suggested that Polynesians actually originated from Southeast Asia, Heyerdahl\u2019s expedition remains a landmark in experimental archaeology. It demonstrated the incredible seafaring capabilities of early civilizations."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The line graph below shows the percentage of people in the UK who used various forms of communication between 1995 and 2005. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "It is important for children to learn about the history of their own country rather than the history of other countries. To what extent do you agree or disagree?"
+        }
+      ]
+    }
+  ]
+}
