@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 07",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "Let's Go Bats",
+          "content": "Bats have always exerted a twin fascination and revulsion in people. Rather like cats, they are nocturnal and can move at night with ease. Their ability to navigate in total darkness is a feat that humans have only recently begun to understand through the study of echolocation. Most bats rely on high-frequency sounds to locate their prey. They emit pulses of sound and listen for the echoes bouncing off objects, allowing them to create a detailed map of their surroundings. This biological sonar is so sophisticated that it far exceeds many human-made technologies. Interestingly, the discovery of sonar in bats was only made possible by comparing their behavior to that of radar and sonar systems developed during World War II. While we use terms like 'blind as a bat', in reality, many species of bats have excellent vision, but they use echolocation as a specialized tool for hunting in the dark..."
+        },
+        {
+          "passage_number": 2,
+          "title": "Making Every Drop Count",
+          "content": "The history of human civilization is entwined with the history of the ways we have learned to manipulate water resources. As towns and cities grew, the need for a reliable water supply became paramount. In the early 20th century, massive engineering projects like dams and aqueducts were seen as the ultimate solution to water scarcity. However, in recent decades, the focus has shifted. We are now realizing that the 'hard path' of building more infrastructure is often unsustainable. The 'soft path' approach emphasizes water conservation, efficiency, and the restoration of natural ecosystems. Many countries are now grappling with the consequences of industrial pollution and the depletion of groundwater. To ensure a sustainable future, we must rethink how we value and use every drop of water..."
+        },
+        {
+          "passage_number": 3,
+          "title": "Educating Psyche",
+          "content": "Educating Psyche by Bernie Neville is a book which looks at radical new approaches to learning, describing the effects of emotion, imagination and the unconscious on learning. One theory discussed is 'Suggestopedia', developed by the Bulgarian psychotherapist Georgi Lozanov. Lozanov believed that the traditional classroom environment is often counterproductive because it creates stress and mental blocks. Suggestopedia attempts to tap into the reserves of the mind by using baroque music, comfortable seating, and a positive atmosphere. Students are encouraged to take on new identities and engage in role-play, which lowers their inhibitions. While some critics view these methods as pseudo-scientific, there is evidence that suggestopedic techniques can significantly accelerate language acquisition and improve memory retention..."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "OFFICER: Good morning, can I help you? \nWOMAN: Yes, I've just moved to the area and I'm interested in the public transport options. \nOFFICER: Certainly. Where are you commuting to? \nWOMAN: I'll be working at the Harbor City Shopping Centre. \nOFFICER: Right. The most direct route is the 702 bus. It leaves from the main square every fifteen minutes. \nWOMAN: And how long does that take? \nOFFICER: About twenty minutes in the morning, though it can be longer during rush hour. There's also the light rail, which is faster but involves a bit of a walk from the station..."
+        },
+        {
+          "section_number": 2,
+          "transcript": "ANNOUNCER: Welcome everyone to the grand reopening of the Central Library. I\u2019m Sarah, the head librarian. As you can see, we\u2019ve made some significant changes. On the ground floor, we have expanded the children\u2019s section to include a dedicated storytelling area and interactive digital stations. Moving up to the first floor, you'll find our new 'Quiet Zone' for serious study. We've also installed a state-of-the-art computer lab where we will be holding free digital literacy workshops every Tuesday. Our collection of local history has also been digitized and is now accessible via the tablets located near the main desk..."
+        },
+        {
+          "section_number": 3,
+          "transcript": "TUTOR: Hello, Mark. How is your assignment on the history of the bicycle coming along? \nMARK: It\u2019s going okay, but I\u2019m struggling a bit with the section on the 'Penny Farthing'. \nTUTOR: Well, it was a revolutionary design, but quite dangerous. Why do you think it fell out of favor? \nMARK: Mostly the safety issues. Because the front wheel was so large, riders were prone to falling forward if they hit a small bump. \nTUTOR: Exactly. That's why the 'Safety Bicycle' with its chain-driven rear wheel was such a game-changer. Have you looked into the materials used in the frames? \nMARK: Yes, I'm currently researching the transition from wood to hollow steel tubes..."
+        },
+        {
+          "section_number": 4,
+          "transcript": "LECTURER: Today we're looking at the impact of noise pollution in urban environments. Noise is often defined as 'unwanted sound', but its effects go far beyond mere annoyance. Recent studies have shown a direct correlation between high levels of ambient noise and increased stress levels, which can lead to cardiovascular issues. In schools, noise can significantly hinder a child's ability to process information and acquire language skills. Architects and city planners are now looking at 'acoustic landscaping'\u2014using vegetation and specialized building materials to deflect or absorb sound waves. We must consider noise not just as a nuisance, but as a public health priority..."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "It is generally believed that some people are born with certain talents, for example for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician. Discuss both these views and give your own opinion."
+        }
+      ]
+    }
+  ]
+}
