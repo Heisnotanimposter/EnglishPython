@@ -1,0 +1,3690 @@
+[
+    {
+        "word": "not",
+        "count": 63,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "which",
+        "count": 59,
+        "appear_ratio": 75.0,
+        "band_level": "5.5+",
+        "synonyms": []
+    },
+    {
+        "word": "about",
+        "count": 56,
+        "appear_ratio": 87.5,
+        "band_level": "5.5+",
+        "synonyms": []
+    },
+    {
+        "word": "more",
+        "count": 53,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "health",
+        "count": 51,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "condition",
+            "wellness",
+            "healthcare"
+        ]
+    },
+    {
+        "word": "their",
+        "count": 48,
+        "appear_ratio": 75.0,
+        "band_level": "5.5+",
+        "synonyms": []
+    },
+    {
+        "word": "one",
+        "count": 43,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "some",
+        "count": 42,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "your",
+        "count": 39,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "children",
+        "count": 37,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "also",
+        "count": 35,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "all",
+        "count": 34,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "than",
+        "count": 32,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "people",
+        "count": 32,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": [
+            "population"
+        ]
+    },
+    {
+        "word": "there",
+        "count": 31,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "most",
+        "count": 31,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": [
+            "majority"
+        ]
+    },
+    {
+        "word": "into",
+        "count": 29,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "new",
+        "count": 29,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "how",
+        "count": 28,
+        "appear_ratio": 75.0,
+        "band_level": "5.5+",
+        "synonyms": []
+    },
+    {
+        "word": "what",
+        "count": 26,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "first",
+        "count": 25,
+        "appear_ratio": 68.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "only",
+        "count": 25,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "use",
+        "count": 25,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "where",
+        "count": 24,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "two",
+        "count": 24,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "officer",
+        "count": 24,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "other",
+        "count": 24,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rainforests",
+        "count": 24,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "when",
+        "count": 23,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "like",
+        "count": 23,
+        "appear_ratio": 81.2,
+        "band_level": "5.5+",
+        "synonyms": []
+    },
+    {
+        "word": "island",
+        "count": 23,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "provided",
+        "count": 23,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "snippet",
+        "count": 23,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "just",
+        "count": 22,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "such",
+        "count": 22,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "many",
+        "count": 21,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "need",
+        "count": 21,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "school",
+        "count": 21,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "who",
+        "count": 21,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "world",
+        "count": 20,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "our",
+        "count": 20,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "child",
+        "count": 20,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "used",
+        "count": 19,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "well",
+        "count": 19,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "over",
+        "count": 19,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "often",
+        "count": 19,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "century",
+        "count": 18,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "however",
+        "count": 18,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "water",
+        "count": 18,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "blind",
+        "count": 18,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "wheel",
+        "count": 18,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "nutmeg",
+        "count": 18,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "then",
+        "count": 17,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "different",
+        "count": 17,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "its",
+        "count": 17,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "good",
+        "count": 16,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "product"
+        ]
+    },
+    {
+        "word": "time",
+        "count": 16,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "ideas",
+        "count": 16,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "out",
+        "count": 16,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "transcript",
+        "count": 16,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "full",
+        "count": 16,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "tutor",
+        "count": 16,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "woman",
+        "count": 16,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "noise",
+        "count": 16,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "dutch",
+        "count": 16,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "small",
+        "count": 15,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "content",
+        "count": 15,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "species",
+        "count": 14,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "now",
+        "count": 14,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "take",
+        "count": 14,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "social",
+        "count": 14,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "help",
+        "count": 14,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "support",
+            "assistance"
+        ]
+    },
+    {
+        "word": "year",
+        "count": 14,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rocket",
+        "count": 14,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "man",
+        "count": 13,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "during",
+        "count": 13,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "each",
+        "count": 13,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "developed",
+        "count": 13,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "across",
+        "count": 13,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "near",
+        "count": 13,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "history",
+        "count": 13,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": [
+            "experience"
+        ]
+    },
+    {
+        "word": "study",
+        "count": 13,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "analysis",
+            "research"
+        ]
+    },
+    {
+        "word": "long",
+        "count": 13,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "area",
+        "count": 13,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "way",
+        "count": 13,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "method",
+            "approach",
+            "technique"
+        ]
+    },
+    {
+        "word": "metres",
+        "count": 13,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "text",
+        "count": 13,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "make",
+        "count": 12,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "made",
+        "count": 12,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": [
+            "generated"
+        ]
+    },
+    {
+        "word": "research",
+        "count": 12,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": [
+            "study",
+            "examination",
+            "survey"
+        ]
+    },
+    {
+        "word": "high",
+        "count": 12,
+        "appear_ratio": 62.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "found",
+        "count": 12,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "section",
+        "count": 12,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "component"
+        ]
+    },
+    {
+        "word": "today",
+        "count": 12,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sense",
+        "count": 12,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "while",
+        "count": 12,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "food",
+        "count": 12,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "vision",
+        "count": 12,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "studies",
+        "count": 11,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "through",
+        "count": 11,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "several",
+        "count": 11,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "work",
+        "count": 11,
+        "appear_ratio": 56.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "activity",
+            "operation"
+        ]
+    },
+    {
+        "word": "minutes",
+        "count": 11,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "conditions",
+        "count": 11,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "climate",
+            "environment"
+        ]
+    },
+    {
+        "word": "find",
+        "count": 11,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "islands",
+        "count": 11,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "environmental",
+        "count": 11,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "marble",
+        "count": 11,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rockets",
+        "count": 11,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "british",
+        "count": 11,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "information",
+        "count": 11,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": [
+            "data",
+            "material",
+            "intelligence"
+        ]
+    },
+    {
+        "word": "present",
+        "count": 11,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "group",
+        "count": 11,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "whales",
+        "count": 11,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "early",
+        "count": 10,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "between",
+        "count": 10,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "modern",
+        "count": 10,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "natural",
+        "count": 10,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "human",
+        "count": 10,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "building",
+        "count": 10,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "light",
+        "count": 10,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "morning",
+        "count": 10,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "course",
+        "count": 10,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "subjects",
+        "count": 10,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sea",
+        "count": 10,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "built",
+        "count": 10,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "approach",
+        "count": 10,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "method",
+            "way",
+            "technique"
+        ]
+    },
+    {
+        "word": "possible",
+        "count": 10,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "get",
+        "count": 10,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "questions",
+        "count": 10,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "technology",
+        "count": 10,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": [
+            "machinery",
+            "systems",
+            "equipment"
+        ]
+    },
+    {
+        "word": "play",
+        "count": 10,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "system",
+        "count": 10,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "structure",
+            "arrangement",
+            "organization"
+        ]
+    },
+    {
+        "word": "urban",
+        "count": 10,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "cork",
+        "count": 10,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "around",
+        "count": 9,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "public",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rather",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "few",
+        "count": 9,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "main",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "here",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "clear",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "open",
+        "count": 9,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "provide",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "same",
+        "count": 9,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "task",
+        "count": 9,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "activity",
+            "function"
+        ]
+    },
+    {
+        "word": "project",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "much",
+        "count": 9,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "example",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "promotion",
+        "count": 9,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "economic",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "test",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "challenge"
+        ]
+    },
+    {
+        "word": "stage",
+        "count": 9,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "understand",
+        "count": 9,
+        "appear_ratio": 50.0,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "travel",
+        "count": 9,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "transport"
+        ]
+    },
+    {
+        "word": "transport",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "traffic",
+            "transit",
+            "conveyance"
+        ]
+    },
+    {
+        "word": "using",
+        "count": 9,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "less",
+        "count": 9,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "local",
+        "count": 9,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "motion",
+        "count": 9,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sighted",
+        "count": 9,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "mark",
+        "count": 9,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "going",
+        "count": 9,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "town",
+        "count": 9,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "after",
+        "count": 8,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "animals",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "late",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "key",
+        "count": 8,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "important",
+        "count": 8,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "significant"
+        ]
+    },
+    {
+        "word": "though",
+        "count": 8,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "students",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "library",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "views",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "interested",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "level",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "rank",
+            "position",
+            "grade"
+        ]
+    },
+    {
+        "word": "called",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "because",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "recent",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "view",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "increase",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "grow",
+            "expand",
+            "rise"
+        ]
+    },
+    {
+        "word": "control",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "management"
+        ]
+    },
+    {
+        "word": "suggests",
+        "count": 8,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "life",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "per",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "range",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "every",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "destruction",
+        "count": 8,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "available",
+        "count": 8,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rainforest",
+        "count": 8,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "pupils",
+        "count": 8,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "plants",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lines",
+        "count": 8,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "square",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "hello",
+        "count": 8,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "floor",
+        "count": 8,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "levels",
+        "count": 8,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "environment",
+        "count": 8,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": [
+            "context",
+            "ecosystem",
+            "conditions"
+        ]
+    },
+    {
+        "word": "farming",
+        "count": 8,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": [
+            "agriculture"
+        ]
+    },
+    {
+        "word": "apartment",
+        "count": 8,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "tree",
+        "count": 8,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "suggest",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "process",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": [
+            "method",
+            "technique",
+            "system"
+        ]
+    },
+    {
+        "word": "back",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "until",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "physical",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "space",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "energy",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "vigor",
+            "fuel",
+            "electricity"
+        ]
+    },
+    {
+        "word": "mary",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "see",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "inside",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "name",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "give",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "little",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "airport",
+        "count": 7,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "student",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "looking",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "yes",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "three",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "any",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "part",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "component",
+            "element"
+        ]
+    },
+    {
+        "word": "very",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "another",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sand",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "both",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "even",
+        "count": 7,
+        "appear_ratio": 43.8,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "five",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "before",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "land",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "absence",
+        "count": 7,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "disease",
+        "count": 7,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "factors",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "complex",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "known",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "learn",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "without",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "either",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "problem",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "concern",
+            "matter",
+            "obstacle"
+        ]
+    },
+    {
+        "word": "reaction",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "evidence",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "position",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "level"
+        ]
+    },
+    {
+        "word": "within",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "future",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "location",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "reduce",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "decrease"
+        ]
+    },
+    {
+        "word": "although",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "circle",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "spokes",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "far",
+        "count": 7,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "population",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "citizens",
+            "demographics",
+            "residents"
+        ]
+    },
+    {
+        "word": "trade",
+        "count": 7,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "economy",
+            "industry"
+        ]
+    },
+    {
+        "word": "impact",
+        "count": 7,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": [
+            "consequence",
+            "outcome",
+            "implication"
+        ]
+    },
+    {
+        "word": "done",
+        "count": 7,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "vertical",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sleeps",
+        "count": 7,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "fire",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "european",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "chinese",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "safety",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "welfare",
+            "security",
+            "shelter"
+        ]
+    },
+    {
+        "word": "scientific",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "success",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "triumph",
+            "outcome",
+            "win"
+        ]
+    },
+    {
+        "word": "development",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "expansion",
+            "improvement",
+            "progress"
+        ]
+    },
+    {
+        "word": "side",
+        "count": 6,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "years",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "took",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "place",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "welcome",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lead",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "broad",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "learning",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "knowledge",
+            "education"
+        ]
+    },
+    {
+        "word": "chek",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lap",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "kok",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "kansai",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "seabed",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "settlement",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "become",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "moved",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "change",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "shift",
+            "adjustment",
+            "variation"
+        ]
+    },
+    {
+        "word": "ways",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "seen",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "medical",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "health"
+        ]
+    },
+    {
+        "word": "terms",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "providing",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "resources",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "working",
+        "count": 6,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "focus",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "kendlers",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "enough",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "source",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "cause",
+            "resource"
+        ]
+    },
+    {
+        "word": "regarding",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "idea",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "ensure",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "beyond",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "move",
+        "count": 6,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "europe",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "india",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "flight",
+        "count": 6,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "passage",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "book",
+        "count": 6,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "likely",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "asked",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "habitats",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sounds",
+        "count": 6,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "spinning",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sample",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "grown",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "look",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "along",
+        "count": 6,
+        "appear_ratio": 37.5,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "growth",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "development"
+        ]
+    },
+    {
+        "word": "production",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "industry"
+        ]
+    },
+    {
+        "word": "innovation",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "technology"
+        ]
+    },
+    {
+        "word": "business",
+        "count": 6,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "industry"
+        ]
+    },
+    {
+        "word": "agent",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "crops",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "falkirk",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "restaurants",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "seed",
+        "count": 6,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "banda",
+        "count": 6,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "probably",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "produce",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "invention",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "stone",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "making",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "round",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "hole",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "end",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "produced",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": [
+            "generated"
+        ]
+    },
+    {
+        "word": "became",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "steel",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "role",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "function"
+        ]
+    },
+    {
+        "word": "conservation",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "upkeep",
+            "preservation",
+            "maintenance"
+        ]
+    },
+    {
+        "word": "global",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "against",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "materials",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "reach",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "cities",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "down",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "quite",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "university",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "right",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "address",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "live",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "road",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "too",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "national",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lecturer",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "given",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "including",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "problems",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "river",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "complete",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "mud",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lower",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "decrease"
+        ]
+    },
+    {
+        "word": "put",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "above",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "soft",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "below",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "top",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "hard",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "granite",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "concept",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "body",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "machine",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "growing",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "still",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "ottawa",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "issues",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "pollution",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "toy",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "his",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "apparently",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "hand",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "great",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "own",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "similar",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "thought",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "generally",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "since",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "designed",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "facilities",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "various",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "south",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "responses",
+        "count": 5,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "shown",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "question",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "value",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "benefit"
+        ]
+    },
+    {
+        "word": "destroying",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "ability",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "competence",
+            "power",
+            "capability"
+        ]
+    },
+    {
+        "word": "essential",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "cetaceans",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "dolphins",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "baleen",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "whether",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "particularly",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "instance",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "large",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "number",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "amount"
+        ]
+    },
+    {
+        "word": "better",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "decades",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "significantly",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "traditional",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sure",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "city",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "ground",
+        "count": 5,
+        "appear_ratio": 31.2,
+        "band_level": "6.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sarah",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "effects",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "stepwells",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "offer",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "employees",
+        "count": 5,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "team",
+        "count": 5,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "customer",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "one-bedroom",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "shops",
+        "count": 5,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "burning",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "slow",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "carrying",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "wood",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "method",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "way",
+            "strategy",
+            "technique"
+        ]
+    },
+    {
+        "word": "ancient",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "methods",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "times",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "discovery",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "iron",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "goal",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "purpose"
+        ]
+    },
+    {
+        "word": "captive",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "programs",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "buildings",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "limited",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "weight",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "walls",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "changed",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "thick",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "york",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "asia",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "reading",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "bus",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "operation",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "work",
+            "action",
+            "activity"
+        ]
+    },
+    {
+        "word": "weather",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": [
+            "climate"
+        ]
+    },
+    {
+        "word": "expressed",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "actually",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "vital",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "guide",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "academic",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "places",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "changing",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "changes",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "china",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "bit",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "site",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "giant",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "similarly",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rock",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "second",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "fleet",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "cubic",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "waters",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "foundations",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "makes",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "areas",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "final",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "raised",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "rest",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "taken",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "western",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "person",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "behaviour",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "individual",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "specific",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "healthy",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "lifestyles",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "away",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "poor",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "socio-ecological",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "international",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "countries",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "education",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "learning",
+            "knowledge",
+            "training"
+        ]
+    },
+    {
+        "word": "sustainable",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "include",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "charter",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "major",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": [
+            "significant"
+        ]
+    },
+    {
+        "word": "strategies",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "together",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "appears",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "adults",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "subject",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "objects",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "difficulty",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": [
+            "challenge",
+            "problem"
+        ]
+    },
+    {
+        "word": "certain",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "training",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "education"
+        ]
+    },
+    {
+        "word": "know",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "cent",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "experience",
+        "count": 4,
+        "appear_ratio": 12.5,
+        "band_level": "7.5+",
+        "synonyms": [
+            "knowledge",
+            "exposure",
+            "history"
+        ]
+    },
+    {
+        "word": "contains",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "behind",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "principle",
+        "count": 4,
+        "appear_ratio": 6.2,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "develop",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "fact",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "required",
+        "count": 4,
+        "appear_ratio": 18.8,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "sophisticated",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    },
+    {
+        "word": "earth",
+        "count": 4,
+        "appear_ratio": 25.0,
+        "band_level": "7.5+",
+        "synonyms": []
+    }
+]
