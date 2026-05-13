@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 14",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "THE IMPORTANCE OF CHILDREN\u2019S PLAY",
+          "content": "Brick by brick, six-year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and fire-breathing dragons, she is oblivious to her surroundings. Play is often seen as a simple leisure activity, but for Alice and millions of other children, it is a vital part of development. Researchers like Dr. David Whitebread from the University of Cambridge argue that play is a powerful way to learn. It allows children to practice social skills, regulate their emotions, and develop creative problem-solving abilities. In recent decades, however, play time has decreased as academic pressure and digital entertainment have increased. The passage explores how varied forms of play\u2014from physical play to symbolic play\u2014contribute to cognitive growth and how the loss of play might affect future generations."
+        },
+        {
+          "passage_number": 2,
+          "title": "THE GROWTH OF BIKE-SHARING SCHEMES AROUND THE WORLD",
+          "content": "The first bike-sharing scheme, known as the 'White Bikes', was launched in Amsterdam in 1965. It was a failure because the bikes were either stolen or thrown into the canals. However, the concept evolved significantly over the next few decades. By the 1990s, more sophisticated systems using coins and smart cards were introduced in Denmark and France. The real turning point came with the development of GPS and mobile technology. Today, cities like Hangzhou and Paris host thousands of bikes that can be unlocked via smartphone apps. The text discusses the environmental benefits of reducing urban congestion and the challenges schemes face, such as vandalism and the logistical 'rebalancing' of bike distribution across cities."
+        },
+        {
+          "passage_number": 3,
+          "title": "MOTIVATIONAL FACTORS AND THE HOSPITALITY INDUSTRY",
+          "content": "The hospitality industry is notorious for high staff turnover rates. To address this, managers must understand what motivates employees beyond just financial compensation. Research suggests that 'intrinsic' factors, such as a sense of achievement and recognition, are often more effective than 'extrinsic' rewards like bonuses. The passage examines several case studies where hotels and restaurants improved retention by fostering a supportive work environment and providing clear career progression paths. It concludes that a combination of organizational culture, managerial support, and employee empowerment is essential for maintaining a stable and motivated workforce in the demanding service sector."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "OFFICER: Good morning, what can I do for you?\nWOMAN: I\u2019d like to report a theft. My bag was stolen this morning.\nOFFICER: I'm sorry to hear that. I\u2019ll need some details. Where did it happen?\nWOMAN: In the Main Street, near the library. I was sitting on a bench.\nOFFICER: And what time was this?\nWOMAN: Around 10:30 AM.\nOFFICER: Can you describe the bag?\nWOMAN: It was a small leather shoulder bag, dark brown. It had my wallet, keys, and a silver necklace inside.\nOFFICER: Did you see the person who took it?\nWOMAN: Not clearly. Just someone on a bicycle riding away very fast."
+        },
+        {
+          "section_number": 2,
+          "transcript": "GUIDE: Welcome to the Indrelow Heritage Site. My name is Mark, and I\u2019ll be your coordinator. We are delighted you\u2019ve volunteered to help preserve this historic area. To your left, you can see the old forge, which is currently being restored. Volunteers will be divided into three groups. Group A will focus on clearing the overgrown path near the river. Group B will assist with the visitor center's archives, and Group C will help with gardening in the Victorian herb garden. Please ensure you wear sturdy boots and gloves, which are provided in the shed behind me. We\u2019ll break for lunch at 12:30."
+        },
+        {
+          "section_number": 3,
+          "transcript": "TUTOR: Hello, Rosie and Martin. How is your presentation on the 'Marine Renewables' project coming along?\nROSIE: We\u2019ve done most of the research, but we\u2019re struggling with the structure.\nMARTIN: We weren't sure whether to focus more on tidal energy or wave energy.\nTUTOR: I\u2019d suggest giving an overview of both, then focusing on the case study in Scotland.\nROSIE: That makes sense. We found some interesting data on the environmental impact on local sea life.\nMARTIN: Yes, but we need to make sure our visuals\u2014the charts and diagrams\u2014are clear for the rest of the class. Should we use the video clip we found?\nTUTOR: Only if it's short. Don't let it take up more than two minutes."
+        },
+        {
+          "section_number": 4,
+          "transcript": "LECTURER: Today we are looking at the history of the early mapping of Australia. In the 17th century, Dutch explorers were the first Europeans to chart the western coast. However, they found the land barren and inhospitable. It wasn't until 1770 that Captain James Cook reached the fertile east coast. The mapping process was arduous, relying on celestial navigation and crude chronometers. These early maps were not just geographical records; they were tools of empire and trade. Recent discoveries of Portuguese charts suggest that some areas may have been reached even earlier, though this remains a subject of intense debate among historians."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The chart below shows the percentage of people in the UK who consumed the recommended five portions of fruit and vegetables per day in 2001, 2004, 2007, and 2008. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion."
+        }
+      ]
+    }
+  ]
+}

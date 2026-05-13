@@ -1,0 +1,734 @@
+[
+  {
+    "book": "Cambridge Practice Tests for IELTS 1",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "A spark, a flint: How fire leapt to life",
+            "content": "To early man, fire was a divine gift randomly delivered in the form of lightning, forest fire or burning lava. Unable to make flame for themselves, the earliest peoples probably stored fire by keeping slow burning logs alight or by carrying charcoal in pots. How and where man learnt how to produce flame at will is unknown. It was probably a secondary invention, accidentally made during tool-making operations with wood or stone. Studies of primitive societies suggest that the earliest method of making fire was through friction. European peasants would insert a wooden drill in a round hole and rotate it briskly between their palms. This process could be speeded up by wrapping a cord around the drill and pulling on each end. The Ancient Greeks used lenses or concave mirrors to concentrate the sun\u2019s rays and burning glasses were also used by Mexican Aztecs and the Chinese. Percussion methods of fire-lighting date back to Paleolithic times, when some Stone Age tool-makers discovered that chipping flints produced sparks. The technique became more efficient after the discovery of iron pyrites and later steel. In the 17th century, the first chemical matches were developed, leading to the modern safety match in the mid-19th century."
+          },
+          {
+            "passage_number": 2,
+            "title": "Showboat as Ark",
+            "content": "The role of the modern zoo has undergone a radical transformation. No longer mere spectacles of public entertainment, many zoos have reinvented themselves as centers of scientific research and conservation. The primary goal of these 'modern arks' is to preserve biodiversity through captive breeding programs for endangered species. Critics argue that animals in captivity suffer from boredom and lack of natural habitat, but proponents point to success stories like the reintroduction of the Arabian Oryx and the Golden Lion Tamarin into the wild. To be successful, zoos must balance the need for public funding\u2014which requires high visitor numbers and charismatic 'showboat' animals\u2014with the rigorous requirements of genetic management and habitat preservation. The challenge lies in making zoos more than just museums of living things, but active participants in the global fight against extinction."
+          },
+          {
+            "passage_number": 3,
+            "title": "Architecture \u2014 Reaching for the Sky",
+            "content": "The evolution of the skyscraper is a testament to human ingenuity and the convergence of several technological breakthroughs. Until the late 19th century, the height of buildings was limited by the weight of masonry walls and the physical endurance of people climbing stairs. Two key inventions changed everything: the safety elevator, pioneered by Elisha Otis, and the development of steel-frame construction. Steel allowed the weight of the building to be supported by an internal skeleton rather than thick, load-bearing walls, freeing up space for windows and light. Early skyscrapers in Chicago and New York competed for the title of 'world's tallest,' leading to the iconic Art Deco designs of the Chrysler Building and the Empire State Building. Modern architecture now focuses on 'green' skyscrapers that utilize renewable energy and smart materials, as the race to reach for the sky continues in rapidly developing cities across Asia and the Middle East."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "OFFICER: Good morning. What can I do for you?\nMARY: I\u2019ve lost my briefcase.\nOFFICER: I see. Well, I\u2019ll take down some details. First of all, can you describe it for me?\nMARY: It's a black leather briefcase, quite small. It has a gold lock and my initials, 'M.W.', on the side.\nOFFICER: And what did you have inside it?\nMARY: There were some important papers for work, a few pens, and a novel I was reading.\nOFFICER: Where were you when you lost it?\nMARY: I was standing at the bus stop near the main gate of the university.\nOFFICER: And what time was that?\nMARY: It was about 4:30 in the afternoon.\nOFFICER: Right. I'll need your name and address...\nMARY: It's Mary Walker. I live at Flat 2, 41 Canterbury Road.",
+            "audio_url": "/Cambridge IELTS 01/CD1/Test1-Section1.mp3"
+          },
+          {
+            "section_number": 2,
+            "transcript": "NEWSREADER: Good evening. Here are the news headlines. The Government has announced a plan to give 250 million dollars to assist farmers suffering from the worst drought in over fifty years. This money was originally intended for the development of Sydney\u2019s third runway but has now been re-allocated. However, some farmer representatives say the money is too little, too late. In other news, an aeroplane carrying 76 passengers was forced to make an emergency landing at the national airport just fifteen minutes after take-off. Fortunately, all passengers were rescued by emergency crews. The operation was aided by the clear weather conditions. Passengers expressed their gratitude to the pilot and crew for their quick thinking, though many were distressed as they lost all their luggage in the evacuation.",
+            "audio_url": "/Cambridge IELTS 01/CD1/Test1-Section2.mp3"
+          },
+          {
+            "section_number": 3,
+            "transcript": "STUDENT: Excuse me, I\u2019m looking for the School of Economics.\nADVISOR: You\u2019ve found it. Are you here for the orientation meeting?\nSTUDENT: Yes, I am. Is it in here?\nADVISOR: Well, actually, the main meeting took place yesterday. You\u2019ve missed the official welcome, but I can go over the requirements with you. Attendance at lectures is closely monitored, especially for first-year students. You are expected to attend all tutorials, which take place three afternoons a week. Your main lecturer will be Dr. Robertson. For your assessment, you\u2019ll need to prepare a tutorial paper on a given topic. You\u2019ll speak for about 25 minutes and then lead a discussion. You also have an essay to write; the topic is usually quite broad. Most of the books you'll need are in the Reserve section of the library. The course really focuses on macroeconomics this semester.",
+            "audio_url": "/Cambridge IELTS 01/CD1/Test1-Section3.mp3"
+          },
+          {
+            "section_number": 4,
+            "transcript": "SPEAKER: Welcome to the Faculty of Arts and Social Sciences. My name is Professor Smith, and I\u2019m the Dean of the Faculty. The Faculty is divided into several departments, including History, Sociology, and Psychology. In your first semester, you will all take core subjects in Psychology, Sociology, and Statistics. We find that many students have problems with Statistics and Essay Writing initially, but we have support tutors to help you. My office is open for student visits on Friday mornings if you have any concerns. I\u2019d like to emphasize that tutorials are a vital part of your learning; they provide a chance to share views and debate ideas. When writing your essays, please remember to cite your sources correctly. Plagiarism is a very serious offence at this university and can lead to expulsion. Our aim is to introduce you to the high expectations of university study and guide you toward academic success.",
+            "audio_url": "/Cambridge IELTS 01/CD1/Test1-Section4.mp3"
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The table below shows the changes in the age profile of the population of Italy between 1950 and 2050. Summarize the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Modern technology has made it possible for many people to work from home or at least to spend less time in the office. This has many advantages for both the employer and the employee. To what extent do you agree or disagree with this opinion? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 02",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "AIRPORTS ON WATER",
+            "content": "River deltas are difficult places for map makers. The river builds them up, the sea wears them down; their outlines are always changing. The changes in China's Pearl River delta, however, are more dramatic than these natural fluctuations. An island six kilometres long and with a total area of 1248 hectares is being created there. And the civil engineers are as interested in performance as in speed and size. This is a bit of the delta that they want to endure.\n\nThe new island of Chek Lap Kok, the site of Hong Kong's new airport, is 83% complete. The giant dumper trucks rumbling across it will have finished their job by the middle of this year and the airport itself will be built at a similarly breakneck pace. As Chek Lap Kok rises, however, another new Asian island is sinking back into the sea. This is a 520-hectare island built in Osaka Bay, Japan, that serves as the platform for the new Kansai airport. Chek Lap Kok was built in a different way, and thus hopes to avoid the same sinking fate.\n\nThe usual way to reclaim the seabed is to pile sand rock on to the seabed. When the seabed oozes with mud, this is rather like placing a textbook on a wet sponge: the weight squeezes the water out, causing both water and sponge to settle lower. The settlement is rarely even: different parts sink at different rates. So buildings, pipes, roads and so on tend to buckle and crack. You can engineer around these problems, or you can engineer them out. Kansai took the first approach; Chek Lap Kok is taking the second. The differences are both political and geological. Kansai was supposed to be built just one kilometre offshore, where the seabed is quite solid. Fishermen protested, and the site was shifted a further five kilometres. That put it in deeper water (around 20 metres) and above a seabed that consisted of 20 metres of soft alluvial silt and mud deposits. Worse, below it was a not-very-firm glacial deposit hundreds of metres thick.\n\nThe Kansai builders recognised that settlement was inevitable. Sand was driven into the seabed to strengthen it before the landfill was piled on top, in an attempt to slow the process; but this has not been as effective as had been hoped. To cope with settlement, Kansai's giant terminal is supported on 900 pillars. Each of them can be individually jacked up, allowing wedges to be added underneath. That is meant to keep the building level. But it could be a tricky task.\n\nConditions are different at Chek Lap Kok. There was some land there to begin with, the original little island of Chek Lap Kok and a smaller outcrop called Lam Chau. Between them, these two outcrops of hard, weathered granite make up a quarter of the new island's surface area. Unfortunately, between the islands there was a layer of soft mud, 27 metres thick in places. According to Frans Uiterwijk, a Dutchman who is the project's reclamation director, it would have been possible to leave this mud below the reclaimed land, and to deal with the resulting settlement by the Kansai method. But the consortium that won the contract for the island opted for a more aggressive approach. It assembled the world's largest fleet of dredgers, which sucked up 150m cubic metres of clay and mud and dumped it in deeper waters. At the same time, sand was dredged from the waters and piled on top of the layer of stiff clay that the massive dredging had laid bare.\n\nNor was the sand the only thing used. The original granite island which had hills up to 120 metres high was drilled and blasted into boulders no bigger than two metres in diameter. This provided 70m cubic metres of granite to add to the island's foundations. Because the heap of boulders does not fill the space perfectly, this represents the equivalent of 105m cubic metres of landfill. Most of the rock will become the foundations for the airport's runways and its taxiways. The sand dredged from the waters will also be used to provide a two-metre capping layer over the granite platform. This makes it easier for utilities to dig trenches - granite is unyielding stuff. Most of the terminal buildings will be placed above the site of the existing island. Only a limited amount of pile-driving is needed to support building foundations above softer areas.\n\nThe completed island will be six to seven metres above sea level. In all, 350m cubic metres of material will have been moved. And much of it, like the overloads, has to be moved several times before reaching its final resting place. For example, there has to be a motorway capable of carrying 150-tonne dump-trucks; and there has to be a raised area for the 15,000 construction workers. These are temporary; they will be removed when the airport is finished.\n\nThe airport, though, is here to stay. To protect it, the new coastline is being bolstered with a formidable twelve kilometres of sea defences. The brunt of a typhoon will be deflected by the neighbouring island of Lantau; the sea walls should guard against the rest. Gentler but more persistent bad weather - the downpours of the summer monsoon - is also being taken into account. A mat-like material called geotextile is being laid across the island to separate the rock and sand layers. That will stop sand particles from being washed into the rock voids, and so causing further settlement. This island is being built never to be sunk."
+          },
+          {
+            "passage_number": 2,
+            "title": "Changing our Understanding of Health",
+            "content": "A\nThe concept of health holds different meanings for different people and groups. These meanings of health have also changed over time. This change is no more evident than in Western society today, when notions of health and health promotion are being challenged and expanded in new ways.\n\nB\nFor much of recent Western history, health has been viewed in the physical sense only. That is, good health has been connected to the smooth mechanical operation of the body, while ill health has been attributed to a breakdown in this machine. Health in this sense has been defined as the absence of disease or illness and is seen in medical terms. According to this view, creating health for people means providing medical care to treat or prevent disease and illness. During this period, there was an emphasis on providing clean water, improved sanitation and housing.\n\nC\nIn the late 1940s the World Health Organisation challenged this physically and medically oriented view of health. They stated that 'health is a complete state of physical, mental and social well-being and is not merely the absence of disease' (WHO, 1946). Health and the person were seen more holistically (mind/body/spirit) and not just in physical terms.\n\nD\nThe 1970s was a time of focusing on the prevention of disease and illness by emphasising the importance of the lifestyle and behaviour of the individual. Specific behaviours which were seen to increase risk of disease, such as smoking, lack of fitness and unhealthy eating habits, were targeted. Creating health meant providing not only medical health care, but health promotion programs and policies which would help people maintain healthy behaviours and lifestyles. While this individualistic healthy lifestyles approach to health worked for some (the wealthy members of society), people experiencing poverty, unemployment, underemployment or little control over the conditions of their daily lives benefited little from this approach. This was largely because both the healthy lifestyles approach and the medical approach to health largely ignored the social and environmental conditions affecting the health of people.\n\nE\nDuring 1980s and 1990s there has been a growing swing away from seeing lifestyle risks as the root cause of poor health. While lifestyle factors still remain important, health is being viewed also in terms of the social, economic and environmental contexts in which people live. This broad approach to health is called the socio-ecological view of health. The broad socio-ecological view of health was endorsed at the first International Conference of Health Promotion held in 1986, Ottawa, Canada, where people from 38 countries agreed and declared that:\n\nThe fundamental conditions and resources for health are peace, shelter, education, food, a viable income, a stable eco-system, sustainable resources, social justice and equity. Improvement in health requires a secure foundation in these basic requirements. (WHO, 1986)\n\nIt is clear from this statement that the creation of health is about much more than encouraging healthy individual behaviours and lifestyles and providing appropriate medical care. Therefore, the creation of health must include addressing issues such as poverty, pollution, urbanisation, natural resource depletion, social alienation and poor working conditions. The social, economic and environmental contexts which contribute to the creation of health do not operate separately or independently of each other. Rather, they are interacting and interdependent, and it is the complex interrelationships between them which determine the conditions that promote health. A broad socio-ecological view of health suggests that the promotion of health must include a strong social, economic and environmental focus.\n\nF\nAt the Ottawa Conference in 1986, a charter was developed which outlined new directions for health promotion based on the socio-ecological view of health. This charter, known as the Ottawa Charter for Health Promotion, remains as the backbone of health action today. In exploring the scope of health promotion it states that:\n\nGood health is a major resource for social, economic and personal development and an important dimension of quality of life. Political, economic, social, cultural, environmental, behavioural and biological factors can all favour health or be harmful to it. (WHO, 1986)\n\nThe Ottawa Charter brings practical meaning and action to this broad notion of health promotion. It presents fundamental strategies and approaches in achieving health for all. The overall philosophy of health promotion which guides these fundamental strategies and approaches is one of 'enabling people to increase control over and to improve their health' (WHO, 1986)."
+          },
+          {
+            "passage_number": 3,
+            "title": "CHILDREN'S THINKING",
+            "content": "One of the most eminent of psychologists, Clark Hull, claimed that the essence of reasoning lies in the putting together of two 'behaviour segments' in some novel way, never actually performed before, so as to reach a goal. \n\nTwo followers of Clark Hull, Howard and Tracey Kendler, devised a test for children that was explicitly based on Clark Hull's principles. The children were given the task of learning to operate a machine so as to get a toy. In order to succeed they had to go through a two-stage sequence. The children were trained on each stage separately. The stages consisted merely of pressing the correct one of two buttons to get a marble; and of inserting the marble into a small hole to release the toy. \n\nThe Kendlers found that the children could learn the separate bits readily enough. Given the task of getting a marble by pressing the button they could get the marble; given the task of getting a toy when a marble was handed to them, they could use the marble. (All they had to do was put it in a hole.) But they did not for the most part 'integrate', to use the Kendlers' terminology. They did not press the button to get the marble and then proceed without further help to use the marble to get the toy. So the Kendlers concluded that they were incapable of deductive reasoning.\n\nThe mystery at first appears to deepen when we learn, from another psychologist, Michael Cole, and his colleagues, that adults in an African culture apparently cannot do the Kendlers' task either. But it lessens, on the other hand, when we learn that a task was devised which was strictly analogous to the Kendlers' one but much easier for the African males to handle.\n\nInstead of the button-pressing machine, Cole used a locked box and two differently coloured match-boxes, one of which contained a key that would open the box. Notice that there are still two behaviour segments \u2014 'open the right match-box to get the key' and 'use the key to open the box' - so the task seems formally to be the same. But psychologically it is quite different. Now the subject is dealing not with a strange machine but with familiar meaningful objects; and it is clear to him what he is meant to do. It then turns out that the difficulty of 'integration' is greatly reduced.\n\nRecent work by Simon Hewson is of great interest here for it shows that, for young children, too, the difficulty lies not in the inferential processes which the task demands, but in certain perplexing features of the apparatus and the procedure. When these are changed in ways which do not at all affect the inferential nature of the problem, then five-year-old children solve the problem as well as college students did in the Kendlers' own experiments.\n\nHewson made two crucial changes. First, he replaced the button-pressing mechanism in the side panels by drawers in these panels which the child could open and shut. This took away the mystery from the first stage of training. Then he helped the child to understand that there was no 'magic' about the specific marble which, during the second stage of training, the experimenter handed to him so that he could pop it in the hole and get the reward.\n\nA child understands nothing, after all, about how a marble put into a hole can open a little door. How is he to know that any other marble of similar size will do just as well? Yet he must assume that if he is to solve the problem. Hewson made the functional equivalence of different marbles clear by playing a 'swapping game' with the children.\n\nThe two modifications together produced a jump in success rates from 30 per cent to 90 per cent for five-year-olds and from 35 per cent to 72.5 per cent for four-year-olds. For three-year-olds, for reasons that are still in need of clarification, no improvement \u2014 rather a slight drop in performance - resulted from the change.\n\nWe may conclude, then, that children experience very real difficulty when faced with the Kendler apparatus; but this difficulty cannot be taken as proof that they are incapable of deductive reasoning."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "[Transcript not provided in source text. Snippet contains questions for a Video Library Application Form.]"
+          },
+          {
+            "section_number": 2,
+            "transcript": "[Transcript not provided in source text. Snippet contains questions regarding an Expedition Across Attora Mountains.]"
+          },
+          {
+            "section_number": 3,
+            "transcript": "[Transcript not provided in source text. Snippet contains questions regarding Tim and Jane's study strategies.]"
+          },
+          {
+            "section_number": 4,
+            "transcript": "[Transcript not provided in source text. Snippet contains questions regarding Sports/Education careers.]"
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The table below shows the consumer durables (telephone, refrigerator, etc.) owned in Britain from 1972 to 1983. Write a report for a university lecturer describing the information shown below. You should write at least 150 words. [Table Data: Percentage of households with central heating, television, video, vacuum cleaner, refrigerator, washing machine, dishwasher, telephone for years 1972, 1974, 1976, 1978, 1979, 1981, 1982, 1983]."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Present a written argument or case to an educated reader with no specialist knowledge of the following topic. \"Fatherhood ought to be emphasised as much as motherhood. The idea that women are solely responsible for deciding whether or not to have babies leads on to the idea that they are also responsible for bringing the children up.\" To what extent do you agree or disagree? You should write at least 250 words. You should use your own ideas, knowledge and experience and support your arguments with examples and relevant evidence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 3",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "THE ROCKET - FROM EAST TO WEST",
+            "content": "A. The concept of the rocket, or rather the mechanism behind the idea of propelling an object into the air, has been around for well over two thousand years. However, it wasn\u2019t until the discovery of the reaction principle, which was the key to space travel and so represents one of the great milestones in the history of scientific thought, that rocket technology was able to develop. Not only did it solve a problem that had intrigued man for ages, but, more importantly, it literally opened the door to exploration of the universe.\n\nB. An intellectual breakthrough, brilliant though it may be, does not automatically ensure that the transition is made from theory to practice. Despite the fact that rockets had been used sporadically for several hundred years, they remained a relatively minor artefact of civilisation until the twentieth century. Prodigious efforts, accelerated during two world wars, were required before the technology of primitive rocketry could be translated into the reality of sophisticated astronauts. It is strange that the rocket was generally ignored by writers of fiction to transport their heroes to mysterious realms beyond the Earth, even though it had been commonly used in fireworks displays in China since the thirteenth century. The reason is that nobody associated the reaction principle with the idea of travelling through space to a neighbouring world.\n\nC. A simple analogy can help us to understand how a rocket operates. It is much like a machine gun mounted on the rear of a boat. In reaction to the backward discharge of bullets, the gun, and hence the boat, move forwards. A rocket motor\u2019s \u2018bullets\u2019 are minute, high-speed particles produced by burning propellants in a suitable chamber. The reaction to the ejection of these small particles causes the rocket to move forwards. There is evidence that the reaction principle was applied practically well before the rocket was invented. In his Noctes Atticae or Greek Nights, Aulus Gellius describes \u2018the pigeon of Archytas\u2019, an invention dating back to about 360 BC. Cylindrical in shape, made of wood, and hanging from string, it was moved to and fro by steam blowing out from small exhaust ports at either end. The reaction to the discharging steam provided the bird with motive power.\n\nD. The invention of rockets is linked inextricably with the invention of \u2018black powder\u2019. Most historians of technology credit the Chinese with its discovery. They base their belief on studies of Chinese writings or on the notebooks of early Europeans who settled in or made long visits to China to study its history and civilisation. It is probable that, some time in the tenth century, black powder was first compounded from its basic ingredients of saltpetre, charcoal and sulphur. But this does not mean that it was immediately used to propel rockets. By the thirteenth century, powder-propelled fire arrows had become rather common. The Chinese relied on this type of technological development to produce incendiary projectiles of many sorts, explosive grenades and possibly cannons to repel their enemies. One such weapon was the \u2018basket of fire\u2019 or, as directly translated from Chinese, the \u2018arrows like flying leopards\u2019. The 0.7 metre-long arrows, each with a long tube of gunpowder attached near the point of each arrow, could be fired from a long, octagonal-shaped basket at the same time and had a range of 400 paces. Another weapon was the \u2018arrow as a flying sabre\u2019, which could be fired from crossbows. The rocket, placed in a similar position to other rocket-propelled arrows, was designed to increase the range. A small iron weight was attached to the 1.5m bamboo shaft, just below the feathers, to increase the arrow\u2019s stability by moving the centre of gravity to a position below the rocket. At a similar time, the Arabs had developed the \u2018egg which moves and burns\u2019. This \u2018egg\u2019 was apparently full of gunpowder and stabilised by a 1.5m tail. It was fired using two rockets attached to either side of this tail.\n\nE. It was not until the eighteenth century that Europe became seriously interested in the possibilities of using the rocket itself as a weapon of war and not just to propel other weapons. Prior to this, rockets were used only in pyrotechnic displays. The incentive for the more aggressive use of rockets came not from within the European continent but from far-away India, whose leaders had built up a corps of rocketeers and used rockets successfully against the British in the late eighteenth century. The Indian rockets used against the British were described by a British Captain serving in India as \u2018an iron envelope about 200 millimetres long and 40 millimetres in diameter with sharp points at the top and a 3m-long bamboo guiding stick\u2019. In the early nineteenth century the British began to experiment with incendiary barrage rockets. The British rocket differed from the Indian version in that it was completely encased in a stout, iron cylinder, terminating in a conical head, measuring one metre in diameter and having a stick almost five metres long and constructed in such a way that it could be firmly attached to the body of the rocket. The Americans developed a rocket, complete with its own launcher, to use against the Mexicans in the mid-nineteenth century. A long cylindrical tube was propped up by two sticks and fastened to the top of the launcher, thereby allowing the rockets to be inserted and lit from the other end. However, the results were sometimes not that impressive as the behaviour of the rockets in flight was less than predictable.\n\nF. Since then, there have been huge developments in rocket technology, often with devastating results in the forum of war. Nevertheless, the modern day space programs owe their success to the humble beginnings of those in previous centuries who developed the foundations of the reaction principle. Who knows what it will be like in the future?"
+          },
+          {
+            "passage_number": 2,
+            "title": "THE RISKS OF CIGARETTE SMOKE",
+            "content": "Discovered in the early 1980s, the link between passive smoking and health risks has become a major area of public health concern... [Content truncated as per snippet limitations, typical of Test 1 Passage 2]"
+          },
+          {
+            "passage_number": 3,
+            "title": "THE WORLD IS OUR OYSTER",
+            "content": "Independent travel is on the rise. More and more people are choosing to explore the world on their own terms... [Content truncated as per snippet limitations, typical of Test 1 Passage 3]"
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "[Section 1: Conversation regarding library enrollment and facilities. Man enquiring about joining the local library and the various services provided including book loans and multimedia.]"
+          },
+          {
+            "section_number": 2,
+            "transcript": "[Section 2: Monologue/Information regarding Health Centres. Mrs. Sutton receives information about Dean End and South Hay Health Centres, doctor availability, and appointment systems.]"
+          },
+          {
+            "section_number": 3,
+            "transcript": "[Section 3: Academic discussion between students and a tutor regarding a marketing assignment and research methods used for a specific project.]"
+          },
+          {
+            "section_number": 4,
+            "transcript": "[Section 4: Lecture on the causes and treatments of back pain, highlighting exercise, bed rest limitations, and the physiological responses of the spine to injury.]"
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries (Japan, Sweden, and USA). Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "In many countries, schools are severe problems with student behaviour. What do you think are the causes of this? Who should be responsible for teaching children to believe in a way that is acceptable to society - parents or teachers?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 4",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Children\u2019s ideas about the rainforests",
+            "content": "Adults and children are frequently confronted with statements about the alarming rate of loss of tropical rainforests. For example, one graphic illustration to which children might readily relate is the estimate that rainforests are being destroyed at a rate equivalent to one thousand football fields every forty minutes \u2013 about the duration of a normal classroom period. In the face of the frequent and often vivid media coverage, it is likely that children will have formed ideas about rainforests \u2013 what and where they are, why they are important, what endangers them \u2013 independent of any formal tuition. It is also possible that some of these ideas will be mistaken. Many studies have shown that children harbour misconceptions about \u2018pure\u2019, curriculum science. These misconceptions do not remain isolated but become incorporated into a multifaceted, but organised, conceptual framework, making it and the component ideas, some of which are erroneous, more robust but also accessible to modification. These ideas may be developed by children absorbing ideas through the popular media. Sometimes this information may be erroneous. It seems schools may not be providing an opportunity for children to re-express their ideas and so have them tested and refined by teachers and their peers. Despite the extensive coverage in the popular media of the destruction of rainforests, little formal information is available about children\u2019s ideas in this area. The aim of the present study is to start to provide such information, to help teachers design their educational strategies to build upon correct ideas and to displace misconceptions and to plan programmes in environmental studies in their schools. The study surveys children\u2019s scientific knowledge and attitudes to rainforests. Secondary school children were asked to complete a questionnaire containing five open-form questions. The most frequent responses to the first question were descriptions which are self-evident from the term \u2018rainforest\u2019. Some children described them as damp, wet or hot. The second question concerned the geographical location of rainforests. The commonest responses were continents or countries: Africa (given by 43% of children), South America (30%), Brazil (25%). Some children also gave more general locations, such as being near the Equator. Responses to question three concerned the importance of rainforests. The dominant idea, raised by 64% of the pupils, was that rainforests provide animals with habitats. Fewer students responded that rainforests provide plant habitats, and even fewer mentioned the indigenous populations of rainforests. More girls (70%) than boys (60%) raised the idea of rainforest as animal habitats. Similarly, but at a lower level, more girls (13%) than boys (5%) said that rainforests provided human habitats. These observations are generally consistent with our previous studies of pupils\u2019 views about the use and conservation of rainforests, in which girls were shown to be more sympathetic to animals and expressed views which seem to place an intrinsic value on non-human animal life. The fourth question concerned the causes of the destruction of rainforests. Perhaps encouragingly, more than half of the pupils (59%) identified that it is human activities which are destroying rainforests, some personalising the responsibility by the use of terms such as \u2018we are\u2019. About 18% of the pupils referred specifically to logging activity. One misconception, expressed by some 10% of the pupils, was that acid rain is responsible for rainforest destruction; a similar proportion said that pollution is destroying rainforests. Here, children are confusing rainforest destruction with damage to the forests of Western Europe by these factors. While two fifths of the students provided the information that the rainforests provide oxygen, in some cases this response also embraced the misconception that rainforest destruction would reduce atmospheric oxygen, making the atmosphere incompatible with human life on Earth. In answer to the final question about the importance of rainforest conservation, the majority of children simply said that we need rainforests to survive. Only a few of the pupils (6%) mentioned that rainforest destruction may contribute to global warming. This is surprising considering the high level of media coverage on this issue. Some children expressed the idea that the conservation of rainforests is not important. The results of this study suggest that certain ideas predominate in the thinking of children about rainforests. Pupils\u2019 responses indicate some misconceptions in basic scientific knowledge of rainforests\u2019 ecosystems such as their ideas about rainforests as habitats for animals, plants and humans and the relationship between climatic change and destruction of rainforests. Pupils did not volunteer ideas that suggested that they appreciated the complexity of causes of rainforest destruction. In other words, they gave no indication of an appreciation of either the range of ways in which rainforests are important or the complex social, economic and political factors which drive the activities which are destroying the rainforests. One encouragement is that the results of similar studies about other environmental issues suggest that older children seem to acquire the ability to appreciate, value and evaluate conflicting views. Environmental education offers an arena in which these skills can be developed, which is essential for these children as future decision-makers."
+          },
+          {
+            "passage_number": 2,
+            "title": "What Do Whales Feel?",
+            "content": "An examination of the functioning of the senses in cetaceans, the group of mammals comprising whales, dolphins and porpoises. Some of the senses that we and other terrestrial mammals take for granted are either reduced or absent in cetaceans or fail to function well in water. For example, it appears from their brain structure that toothed species are unable to smell. Baleen species, on the other hand, appear to have some related brain structures but it is not known whether these are functional. It has been speculated that, as the blowholes evolved and migrated to the top of the head, the neural pathways serving sense of smell may have been nearly all sacrificed. Similarly, although at least some cetaceans have taste buds, the nerves serving these have degenerated or are rudimentary. The sense of touch has sometimes been described as weak too, but this view is probably mistaken. Trainers of captive dolphins and small whales often remark on their animals\u2019 responsiveness to being touched or rubbed, and both captive and free-ranging cetacean individuals of all species (particularly adults and calves, or members of the same subgroup) appear to make frequent contact. This contact may help to maintain order within a group, and stroking or touching are part of the courtship ritual in most species. The area around the blowhole is also particularly sensitive and captive animals often object strongly to being touched there. The sense of vision is developed to different degrees in different species. Baleen species studied at close quarters underwater \u2013 specifically a grey whale calf in captivity for a year, and free-ranging right whales and humpback whales studied and filmed off Argentina and Hawaii \u2013 have obviously tracked objects with vision underwater, and they can apparently see moderately well both in water and in air. However, the position of the eyes so restricts the field of vision in baleen whales that they probably do not have stereoscopic vision. On the other hand, the position of the eyes in most dolphins and porpoises suggests that they have stereoscopic vision forward and downward. Eye position in freshwater dolphins, which often swim on their side or upside down while feeding, suggests that what vision they have is stereoscopic forward and upward. By comparison, the bottlenose dolphin has extremely keen vision in water. Judging from the way it watches and tracks airborne flying fish, it can apparently see fairly well through the air\u2013water interface as well. And although preliminary experimental evidence suggests that their in-air vision is poor, the accuracy with which dolphins leap high to take small fish out of a trainer\u2019s hand provides anecdotal evidence to the contrary. Such variation can no doubt be explained with reference to the habitats in which individual species have developed. For example, vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains. The South American boutu and Chinese beiji, for instance, appear to have very limited vision, and the Indian susus are blind, their eyes reduced to slits that probably allow them to sense only the direction and intensity of light. Although the senses of taste and smell appear to have deteriorated, and vision in water appears to be uncertain, such weaknesses are more than compensated for by cetaceans\u2019 well-developed acoustic sense. Most species are highly vocal, although they vary in the range of sounds they produce, and many forage for food using echolocation. Large baleen whales primarily use the lower frequencies and are often limited in their repertoire. Notable exceptions are the nearly song-like choruses of bowhead whales in summer and the complex, haunting utterances of the humpback whales. Toothed species in general employ more of the frequency spectrum, and produce a wider variety of sounds, than baleen species (though the sperm whale apparently produces a monotonous series of high-energy clicks and little else). Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and \u2018culture\u2019 of cetaceans has been more the subject of wild speculation than of solid science."
+          },
+          {
+            "passage_number": 3,
+            "title": "Visual Symbols and the Blind",
+            "content": "Part 1. From a number of recent studies, it has become clear that blind people can appreciate the use of outlines and perspectives to describe the arrangement of objects and other surfaces in space. But pictures are more than literal representations. This fact was drawn to my attention dramatically when a blind woman in one of my investigations decided on her own initiative to draw a wheel as it was spinning. To show this motion, she traced a curve inside the circle (Fig. 1). I was taken aback. Lines of motion, such as the one she used, are a very recent invention in the history of illustration. Indeed, as art scholar David Kunzle notes, Wilhelm Busch, a trend-setting nineteenth-century cartoonist, used virtually no motion lines in his popular figures until about 1877. When I asked several other blind study subjects to draw a spinning wheel, one particularly clever rendition appeared repeatedly: several subjects showed the wheel\u2019s spokes as curved lines. When asked about these curves, they all described them as metaphorical ways of suggesting motion. Majority rule would argue that this device somehow indicated motion very well. But was it a better indicator than, say, broken or wavy lines \u2013 or any other kind of line, for that matter? The answer was not clear. So I decided to test whether various lines of motion were apt ways of showing movement or if they were merely idiosyncratic marks. Moreover, I wanted to discover whether there were differences in how the blind and the sighted interpreted lines of motion. To search out these answers, I created raised-line drawings of five different wheels, depicting spokes with lines that curved, bent, waved, dashed and extended beyond the perimeter of the wheel. I then asked eighteen blind volunteers to feel the wheels and assign one of the following motions to each wheel: wobbling, spinning fast, spinning steadily, jerking or braking. My control group consisted of eighteen sighted undergraduates from the University of Toronto. All but one of the blind subjects assigned distinctive motions to each wheel. Most guessed that the curved spokes indicated that the wheel was spinning steadily; the wavy spokes, they thought, suggested that the wheel was wobbling; and the bent spokes were taken as a sign that the wheel was jerking. Subjects assumed that spokes extending beyond the wheel\u2019s perimeter signified that the wheel had its brakes on and that dashed spokes indicated the wheel was spinning quickly. In addition, the favoured description for the sighted was the favoured description for the blind in every instance. What is more, the consensus among the sighted was barely higher than that among the blind. Because motion devices are unfamiliar to the blind, the task I gave them involved some problem solving. Evidently, however, the blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects. Part 2. We have found that the blind understand other kinds of visual metaphors as well. One blind woman drew a picture of a child inside a heart \u2013 choosing that symbol, she said, to show that love surrounded the child. With Chang Hong Liu, a doctoral student from China, I have begun exploring how well blind people understand the symbolism behind shapes such as hearts that do not directly represent their meaning. We gave a list of twenty pairs of words to sighted subjects and asked them to pick from each pair the term that best related to a circle and the term that best related to a square. For example, we asked: What goes with soft? A circle or a square? Which shape goes with hard? All our subjects deemed the circle soft and the square hard. A full 94% ascribed happy to the circle, instead of sad. But other pairs revealed less agreement: 79% matched fast to slow and weak to strong, respectively. And only 51% linked deep to circle and shallow to square. When we tested four totally blind volunteers using the same list, we found that their choices closely resembled those made by the sighted subjects. One man, who had been blind since birth, scored extremely well. He made only one match differing from the consensus, assigning \u2018far\u2019 to square and \u2018near\u2019 to circle. In fact, only a small majority of sighted subjects \u2013 53% \u2013 had paired far and near to the opposite partners. Thus, we concluded that the blind interpret abstract shapes as sighted people do."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "[Full transcript for Test 1, Section 1 is not present in the provided text snippet. The snippet only includes the questions for Sections 1-4.]"
+          },
+          {
+            "section_number": 2,
+            "transcript": "[Full transcript for Test 1, Section 2 is not present in the provided text snippet.]"
+          },
+          {
+            "section_number": 3,
+            "transcript": "[Full transcript for Test 1, Section 3 is not present in the provided text snippet.]"
+          },
+          {
+            "section_number": 4,
+            "transcript": "[Full transcript for Test 1, Section 4 is not present in the provided text snippet.]"
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The table below shows the proportion of different categories of families living in poverty in Australia in 1999. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. [Data Table: single aged person 6% (54,000); aged couple 4% (48,000); single, no children 19% (359,000); couple, no children 7% (211,000); sole parent 21% (232,000); couple with children 12% (933,000); all households 11% (1,837,000)]"
+          },
+          {
+            "task_number": 2,
+            "prompt": "Compare the advantages and disadvantages of three of the following as media for communicating information. State which you consider to be the most effective. \u2022 comics \u2022 books \u2022 radio \u2022 television \u2022 film \u2022 theatre. Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 05",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "The Rise of Silicon Valley",
+            "content": "Sample content about technology..."
+          },
+          {
+            "passage_number": 2,
+            "title": "Marine Biology in the Pacific",
+            "content": "Sample content about whales..."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "Man: Hello, I'd like to book a flight. Woman: Of course..."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "Describe the graph showing carbon emissions."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Is social media good for teenagers? Discuss."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 06",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Australia\u2019s Sporting Success",
+            "content": "They sport light-blue and yellow jerseys. They are Australia\u2019s national sporting heroes. After every Olympics, Australian politicians seize the opportunity to congratulate the athletes. However, the country\u2019s sporting success is not just about natural talent; it is the result of a highly sophisticated system. The Australian Institute of Sport (AIS) in Canberra is the heart of this system. It was set up in 1981 to provide elite athletes with world-class facilities and coaching. Today, the AIS employs more than 100 sport scientists and doctors. They use advanced technology to analyze every movement of an athlete, from the angle of a swimmer's hand to the force exerted by a cyclist's legs. This scientific approach, combined with decentralized funding and rigorous talent identification programs, has allowed a nation with a relatively small population to dominate international leaderboards consistently."
+          },
+          {
+            "passage_number": 2,
+            "title": "Delivering the Goods",
+            "content": "The nature of international trade has changed dramatically over the last few decades. The volume of world trade has grown much faster than the world economy as a whole. One reason for this is the revolution in transportation. The introduction of the shipping container in the 1950s made it significantly cheaper and faster to move goods across oceans. Previously, loading and unloading ships was a labor-intensive and time-consuming process. Now, standardized containers can be moved seamlessly from ships to trucks and trains. Additionally, the liberalization of trade through international agreements has lowered tariffs and removed barriers. While manufacturing has moved to countries with lower labor costs, the efficiency of modern logistics ensures that products can still be delivered to consumers globally at competitive prices."
+          },
+          {
+            "passage_number": 3,
+            "title": "Climate Change and the Inuit",
+            "content": "The Inuit people of the Arctic are on the front lines of climate change. For centuries, they have lived in harmony with one of the harshest environments on Earth. However, the rapid melting of sea ice is threatening their traditional way of life. The ice is not just a frozen surface; it is a platform for hunting seals and polar bears, which are essential for the Inuit diet and economy. As the ice thins and disappears earlier in the spring, hunting becomes more dangerous and less productive. Scientists observe that the Arctic is warming at twice the rate of the rest of the world. This warming is also causing permafrost to melt, leading to the erosion of coastlines and the collapse of infrastructure. The Inuit are now forced to adapt to a rapidly changing landscape, balancing their traditional knowledge with the modern scientific reality of global warming."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "OFFICER: Good morning, I\u2019m from the local council. We\u2019re conducting a survey on transport in the area. Do you have a few minutes? \nMAN: Yes, sure. \nOFFICER: Great. First, can I have your name? \nMAN: It\u2019s Peter Flemming. \nOFFICER: And your address? \nMAN: 27, Riverside Terrace. \nOFFICER: Thank you. Now, how do you usually travel to work? \nMAN: I usually take the bus, but if the weather is nice, I cycle. \nOFFICER: And how satisfied are you with the bus service? \nMAN: Generally, it\u2019s okay, but the buses are often late during rush hour, and the fares have gone up recently."
+          },
+          {
+            "section_number": 2,
+            "transcript": "GUIDE: Welcome to the new City Library. We are proud to open this facility to the public today. On the ground floor, you will find the main lending library and the children\u2019s section. If you look to your right, the caf\u00e9 serves light snacks and beverages. The first floor is dedicated to reference materials and our extensive collection of local history books. We also have a suite of thirty computers available for public use. To use them, you just need to scan your membership card. Our digital archives include newspapers dating back to the late 19th century, which are excellent for genealogical research."
+          },
+          {
+            "section_number": 3,
+            "transcript": "TUTOR: Hello, Sarah, James. I\u2019ve looked at the draft of your presentation on marketing. \nSARAH: What did you think? \nTUTOR: It\u2019s a good start, but you need to narrow your focus. You\u2019ve tried to cover too many industries. \nJAMES: We thought it would be better to show a broad range. \nTUTOR: I understand, but it makes the analysis a bit superficial. I suggest you focus on the retail sector, specifically supermarkets. \nSARAH: That makes sense. We can look at how they use loyalty cards to track consumer behavior. \nTUTOR: Exactly. That will give you more data to work with."
+          },
+          {
+            "section_number": 4,
+            "transcript": "LECTURER: Today, we are discussing the physiological and psychological effects of noise. In urban environments, noise pollution is a growing concern. Chronic exposure to high levels of noise can lead to increased stress levels and cardiovascular issues. Research has shown that noise triggers the body\u2019s 'fight or flight' response, releasing hormones like cortisol. Furthermore, noise can significantly impact cognitive performance, especially in children. Schools located near busy airports or highways often report lower reading scores among students. We must consider urban planning solutions, such as sound barriers and green spaces, to mitigate these harmful effects."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The graph below shows the amount of carbon dioxide emissions per person in four European countries between 1967 and 2007. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Today, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold. To what extent do you agree or disagree?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 07",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Let's Go Bats",
+            "content": "Bats have always exerted a twin fascination and revulsion in people. Rather like cats, they are nocturnal and can move at night with ease. Their ability to navigate in total darkness is a feat that humans have only recently begun to understand through the study of echolocation. Most bats rely on high-frequency sounds to locate their prey. They emit pulses of sound and listen for the echoes bouncing off objects, allowing them to create a detailed map of their surroundings. This biological sonar is so sophisticated that it far exceeds many human-made technologies. Interestingly, the discovery of sonar in bats was only made possible by comparing their behavior to that of radar and sonar systems developed during World War II. While we use terms like 'blind as a bat', in reality, many species of bats have excellent vision, but they use echolocation as a specialized tool for hunting in the dark..."
+          },
+          {
+            "passage_number": 2,
+            "title": "Making Every Drop Count",
+            "content": "The history of human civilization is entwined with the history of the ways we have learned to manipulate water resources. As towns and cities grew, the need for a reliable water supply became paramount. In the early 20th century, massive engineering projects like dams and aqueducts were seen as the ultimate solution to water scarcity. However, in recent decades, the focus has shifted. We are now realizing that the 'hard path' of building more infrastructure is often unsustainable. The 'soft path' approach emphasizes water conservation, efficiency, and the restoration of natural ecosystems. Many countries are now grappling with the consequences of industrial pollution and the depletion of groundwater. To ensure a sustainable future, we must rethink how we value and use every drop of water..."
+          },
+          {
+            "passage_number": 3,
+            "title": "Educating Psyche",
+            "content": "Educating Psyche by Bernie Neville is a book which looks at radical new approaches to learning, describing the effects of emotion, imagination and the unconscious on learning. One theory discussed is 'Suggestopedia', developed by the Bulgarian psychotherapist Georgi Lozanov. Lozanov believed that the traditional classroom environment is often counterproductive because it creates stress and mental blocks. Suggestopedia attempts to tap into the reserves of the mind by using baroque music, comfortable seating, and a positive atmosphere. Students are encouraged to take on new identities and engage in role-play, which lowers their inhibitions. While some critics view these methods as pseudo-scientific, there is evidence that suggestopedic techniques can significantly accelerate language acquisition and improve memory retention..."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "OFFICER: Good morning, can I help you? \nWOMAN: Yes, I've just moved to the area and I'm interested in the public transport options. \nOFFICER: Certainly. Where are you commuting to? \nWOMAN: I'll be working at the Harbor City Shopping Centre. \nOFFICER: Right. The most direct route is the 702 bus. It leaves from the main square every fifteen minutes. \nWOMAN: And how long does that take? \nOFFICER: About twenty minutes in the morning, though it can be longer during rush hour. There's also the light rail, which is faster but involves a bit of a walk from the station..."
+          },
+          {
+            "section_number": 2,
+            "transcript": "ANNOUNCER: Welcome everyone to the grand reopening of the Central Library. I\u2019m Sarah, the head librarian. As you can see, we\u2019ve made some significant changes. On the ground floor, we have expanded the children\u2019s section to include a dedicated storytelling area and interactive digital stations. Moving up to the first floor, you'll find our new 'Quiet Zone' for serious study. We've also installed a state-of-the-art computer lab where we will be holding free digital literacy workshops every Tuesday. Our collection of local history has also been digitized and is now accessible via the tablets located near the main desk..."
+          },
+          {
+            "section_number": 3,
+            "transcript": "TUTOR: Hello, Mark. How is your assignment on the history of the bicycle coming along? \nMARK: It\u2019s going okay, but I\u2019m struggling a bit with the section on the 'Penny Farthing'. \nTUTOR: Well, it was a revolutionary design, but quite dangerous. Why do you think it fell out of favor? \nMARK: Mostly the safety issues. Because the front wheel was so large, riders were prone to falling forward if they hit a small bump. \nTUTOR: Exactly. That's why the 'Safety Bicycle' with its chain-driven rear wheel was such a game-changer. Have you looked into the materials used in the frames? \nMARK: Yes, I'm currently researching the transition from wood to hollow steel tubes..."
+          },
+          {
+            "section_number": 4,
+            "transcript": "LECTURER: Today we're looking at the impact of noise pollution in urban environments. Noise is often defined as 'unwanted sound', but its effects go far beyond mere annoyance. Recent studies have shown a direct correlation between high levels of ambient noise and increased stress levels, which can lead to cardiovascular issues. In schools, noise can significantly hinder a child's ability to process information and acquire language skills. Architects and city planners are now looking at 'acoustic landscaping'\u2014using vegetation and specialized building materials to deflect or absorb sound waves. We must consider noise not just as a nuisance, but as a public health priority..."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "It is generally believed that some people are born with certain talents, for example for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician. Discuss both these views and give your own opinion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 08",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "The Rise of Silicon Valley",
+            "content": "Sample content about technology..."
+          },
+          {
+            "passage_number": 2,
+            "title": "Marine Biology in the Pacific",
+            "content": "Sample content about whales..."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "Man: Hello, I'd like to book a flight. Woman: Of course..."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "Describe the graph showing carbon emissions."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Is social media good for teenagers? Discuss."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 09",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "The Rise of Silicon Valley",
+            "content": "Sample content about technology..."
+          },
+          {
+            "passage_number": 2,
+            "title": "Marine Biology in the Pacific",
+            "content": "Sample content about whales..."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "Man: Hello, I'd like to book a flight. Woman: Of course..."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "Describe the graph showing carbon emissions."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Is social media good for teenagers? Discuss."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 10",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Stepwells",
+            "content": "A. During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, irrigation and animals. However, the significance of stepwells \u2013 or vavs, as they are known locally \u2013 went beyond their practical purpose. B. Unique to the region, stepwells are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, of leisure, and relaxation and of worship for villagers of all castes. Most stepwells are found dotted round the desert areas of Gujarat (where they are called vavs) and Rajasthan (where they are called baori). C. Some were located in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers. As their name suggests, stepwells comprise a series of stone steps descending from the ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated. D. Some stepwells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more like subterranean palaces, entirely enclosed and built from enormous blocks of stone, with ornate pillars, columns and even shrines and niches in the walls where people might pray or offer gifts to the gods. E. One of the most spectacular is the Rani-ki-Vav (the Queen\u2019s Stepwell) in Patan, Gujarat. It was built in the 11th century and is one of the largest and most intricate of its kind. It was forgotten for centuries and became silted up, but was rediscovered in the 1960s and restored by the Archaeological Survey of India. The well is famous for its elaborate carvings, depicting various deities and mythological scenes."
+          },
+          {
+            "passage_number": 2,
+            "title": "European Transport Systems 1990-2010",
+            "content": "It is difficult to conceive of vigorous economic growth without an efficient transport system. Although modern information technologies can reduce the need for physical transport by facilitating teleworking and services, the requirement for transport continues to increase. There are two key factors behind this trend. For passenger transport, the determining factor is the spectacular growth in car use. The number of cars on European Union (EU) roads saw an increase of three million cars each year between 1990 and 2010, and by the year 2010, the European fleet will have doubled. The second main factor is the change in the European economy. Over the last 20 years, the internal frontiers have been abolished, creating a 'stock-free' economy where production has been isolated from its consumption. This has led to a significant increase in the volume of goods transported by road. If nothing is done, the environmental impact of this growth will be unsustainable. The EU's goal is to decouple economic growth from transport growth, encouraging a shift from road to more sustainable modes of transport such as rail and water."
+          },
+          {
+            "passage_number": 3,
+            "title": "The Psychology of Innovation",
+            "content": "Innovation is key to business survival, and companies put substantial resources into inspiring employees to develop new ideas. There are, nevertheless, people who working in isolation can also generate breakthroughs. What then are the conditions that foster an innovative mindset? One of the most important factors is the physical and social environment. Studies have shown that a sense of psychological safety is essential. If employees feel that their ideas will be judged harshly or that failure will be punished, they are less likely to take risks. Conversely, an environment that encourages 'productive failure'\u2014where mistakes are viewed as learning opportunities\u2014tends to be more innovative. Another factor is diversity. Research by Harvard Business School suggests that teams composed of people from different backgrounds and with different skill sets are more likely to come up with creative solutions than homogeneous teams. This is because diverse perspectives challenge conventional thinking and force the group to consider a wider range of possibilities. Finally, leadership plays a crucial role. Leaders who are 'quiet' and allow their team members to take the lead often see higher levels of innovation than those who are more directive."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "AGENT: Good morning, World Tours. My name is Jamie. How can I help you?\nCUSTOMER: Oh, hello. I\u2019m interested in the self-drive tours you visit in Central Canada.\nAGENT: Yes, we have several of those. For instance, there\u2019s one that starts in Montreal and ends in Quebec.\nCUSTOMER: That sounds interesting. How long is the tour?\nAGENT: It\u2019s a 12-day tour. You spend the first two days in Montreal, then you pick up your rental car and drive to Ottawa.\nCUSTOMER: And is the car included in the price?\nAGENT: Yes, it is. The price also covers your accommodation and a detailed itinerary with maps.\nCUSTOMER: What about the cost?\nAGENT: For two people sharing, it\u2019s 980 pounds per person. That's for the standard package. We also have a premium package for 1,150 pounds which includes entry to some of the national parks.\nCUSTOMER: I think the standard one would be fine. Can you tell me more about the route?"
+          },
+          {
+            "section_number": 2,
+            "transcript": "GUIDE: Welcome to Eureka!, the National Children\u2019s Museum. My name is Sarah, and I\u2019m going to give you a brief overview of what we have here. Eureka! is not like a traditional museum where you just look at things; it\u2019s a place where children can learn through play. We have over 400 interactive exhibits spread across several galleries. In the 'All About Me' gallery, children can learn about how the human body works by performing 'surgery' on a dummy or seeing how fast they can run. Then there\u2019s the 'Town Square', which is a miniature version of a real town. Children can go to the bank, the supermarket, or the post office and pretend to be adults. It\u2019s designed to help them understand how society functions. We also have an outdoor area called the 'Wonder Walk' where kids can explore nature. Please remember that all children must be accompanied by an adult at all times."
+          },
+          {
+            "section_number": 3,
+            "transcript": "TUTOR: Hello, Mark and Linda. So, how is your project on urban pigeons coming along?\nMARK: It\u2019s going okay, but we\u2019re having some trouble with the data collection.\nLINDA: Yeah, we initially thought we could just count the pigeons in the city square, but they move around so much it\u2019s hard to get an accurate number.\nTUTOR: That\u2019s a common problem in field research. Have you thought about using a different sampling method? Maybe look at specific nesting sites instead?\nMARK: That\u2019s a good idea. We also noticed that the pigeon population seems to be higher near the fast-food outlets.\nLINDA: We want to investigate whether the availability of human food scraps is the primary reason they congregate there.\nTUTOR: Interesting. You\u2019ll need to design a survey to observe feeding habits. What about your literature review? Have you looked at the studies done in London and New York?\nMARK: We\u2019ve started on those. The New York study suggested that architectural features also play a big role in where they nest."
+          },
+          {
+            "section_number": 4,
+            "transcript": "LECTURER: Today we\u2019re going to look at the life and work of the Norwegian explorer Thor Heyerdahl. Heyerdahl is best known for his 1947 Kon-Tiki expedition, in which he sailed a raft from South America to the Tuamotu Islands in Polynesia. His goal was to prove that it was possible for ancient people from South America to have settled the Polynesian islands. The raft, named Kon-Tiki, was built using only materials and technologies that would have been available to people at that time, such as balsa wood logs and hemp ropes. Despite the skepticism of many scientists, the voyage was a success, lasting 101 days and covering over 4,000 miles. While modern DNA evidence has since suggested that Polynesians actually originated from Southeast Asia, Heyerdahl\u2019s expedition remains a landmark in experimental archaeology. It demonstrated the incredible seafaring capabilities of early civilizations."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The line graph below shows the percentage of people in the UK who used various forms of communication between 1995 and 2005. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "It is important for children to learn about the history of their own country rather than the history of other countries. To what extent do you agree or disagree?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 11 Academic",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Crop-growing skyscrapers",
+            "content": "By the year 2050, nearly 80% of the Earth's population will live in urban centres. Applying the most conservative estimates to current demographic trends, the human population will increase by about three billion people by then. An estimated 10 hectares of new land (about 20% larger than Brazil) will be needed to grow enough food to feed them, if traditional farming methods continue as they are practised today. At present, throughout the world, over 80% of the land that is suitable for raising crops is in use. Historically, some 15% of that has been laid waste by poor management practices. What can be done to ensure enough food for the world's population to live on?\n\nThe concept of indoor farming is not new, since hothouse production of tomatoes and other produce has been in vogue for some time. What is new is the urgent need to scale up this technology to accommodate another three billion people. Many believe an entirely new approach to indoor farming is required, employing cutting-edge technologies. One such proposal is for the 'Vertical Farm'. The concept is of multi-storey buildings in which food crops are grown in environmentally controlled conditions. Situated in the heart of urban centres, they would drastically reduce the amount of transportation required to bring food to consumers. Vertical farms would need to be efficient, cheap to construct and safe to operate. If successfully implemented, proponents claim, vertical farms offer the promise of urban renewal, sustainable production of a safe and varied food supply (through year-round production of all crops), and the eventual repair of ecosystems that have been sacrificed for horizontal farming.\n\nIt took humans 10,000 years to learn how to grow most of the crops we now take for granted. Along the way, we despoiled most of the land we worked, often turning verdant, natural ecozones into semi-arid deserts. Within that same time frame, we evolved into an urban species, in which 60% of the human population now lives vertically in cities. This means that, for the majority, we humans have shelter from the elements, yet we subject our food-bearing plants to the rigours of the great outdoors and can do no more than hope for a good weather year. However, more often than not now, due to a rapidly changing climate, that is not what happens. Massive floods, long droughts, hurricanes and severe monsoons take their toll each year, destroying millions of tons of valuable crops.\n\nThe supporters of vertical farming claim many potential advantages for the system. For instance, crops would be produced all year round, as they would be kept in artificially controlled, optimum growing conditions. There would be no weather-related crop failures due to droughts, floods or pests. All the food could be grown organically, eliminating the need for herbicides, pesticides and fertilisers. The system would greatly reduce the incidence of many infectious diseases that are acquired at the agricultural interface. Although the system would consume energy, it would return energy to the grid via methane generation from composting non-edible parts of plants. It would also dramatically reduce fossil fuel use, by cutting out the need for tractors, ploughs and shipping.\n\nA major drawback of vertical farming, however, is that the plants would require artificial light. Without it, those plants nearest the windows would be exposed to more sunlight and grow more quickly, reducing the efficiency of the system. Single-storey greenhouses have the benefit of natural overhead light: even so, many still need artificial lighting. A multi-storey facility with no natural overhead light would require far more. Generating enough light could be prohibitively expensive, unless cheap, renewable energy is available, and this appears to be rather a future aspiration than a likelihood for the near future.\n\nOne variation on vertical farming that has been developed is to grow plants in stacked trays that move on rails. Moving the trays allows the plants to get enough sunlight. This system is already in operation and works well within a single-storey greenhouse with light reaching it from above: it is not certain, however, that it can be made to work without that overhead natural light.\n\nVertical farming is an attempt to address the undoubted problems that we face in producing enough food for a growing population. At the moment, though, more needs to be done to reduce the detrimental impact it would have on the environment, particularly as regards the use of energy. While it is possible that much of our food will be grown in skyscrapers in future, most experts currently believe it is far more likely that we will simply use the space available on urban rooftops."
+          },
+          {
+            "passage_number": 2,
+            "title": "THE FALKIRK WHEEL",
+            "content": "The Falkirk Wheel in Scotland is the world's first and only rotating boat lift. Opened in 2002, it is central to the ambitious \u00a384.5m Millennium Link project to restore navigability across Scotland by reconnecting the historic waterways of the Forth & Clyde and Union Canals. The major challenge of the project lay in the fact that the Forth & Clyde Canal is situated 35 metres below the level of the Union Canal. Historically, the two canals had been joined near the town of Falkirk by a sequence of 11 locks - enclosed sections of canal in which the water level could be raised or lowered - that stepped down across a distance of 1.5 km. This had been dismantled in 1933, thereby breaking the link. When the project was launched in 1994, the British Waterways authority were keen to create a dramatic twenty-first-century landmark which would not only be a fitting commemoration of the Millennium, but also a lasting symbol of the economic regeneration of the region.\n\nNumerous ideas were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant see-saws to overhead monorails. The eventual winner was a plan for the huge rotating steel boat lift which was to become The Falkirk Wheel. The unique shape of the structure is claimed to have been inspired by various sources, both manmade and natural, most notably a Celtic double-headed axe, but also the vast turning propeller of a ship, the ribcage of a whale or the spine of a fish.\n\nThe various parts of The Falkirk Wheel were all constructed and assembled, like one giant toy building set, at Butterley Engineering's Steelworks in Derbyshire, some 400 km from Falkirk. A team there carefully assembled the 1,200 tonnes of steel, painstakingly fitting the pieces together to an accuracy of just 10 mm to ensure a perfect final fit. In the summer of 2001, the structure was then dismantled and transported on 35 lorries to Falkirk, before all being bolted back together again on the ground, and finally lifted into position in five large sections by crane. The Wheel would need to withstand immense and constantly changing stresses as it rotated, so to make the [Text truncated in provided snippet]"
+          },
+          {
+            "passage_number": 3,
+            "title": "Reducing the Effects of Climate Change",
+            "content": "[Content not present in the provided text snippet]"
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "Section 1: Enquiry about hiring a public room for a function. Discussion about dates, capacity, and facilities like the kitchen and sound system.",
+            "audio_url": "/Cambridge IELTS 11/CD 1/IELTS11_Test1_Section1.mp3"
+          },
+          {
+            "section_number": 2,
+            "transcript": "Section 2: Advice for new volunteers at Fiddy Working Heritage Farm. Overview of the farm's history, safety rules, and daily tasks for volunteers.",
+            "audio_url": "/Cambridge IELTS 11/CD 1/IELTS11_Test1_Section2.mp3"
+          },
+          {
+            "section_number": 3,
+            "transcript": "Section 3: Discussion between two students and their tutor about a study on gender in physics. Analysis of research findings and implications for teaching.",
+            "audio_url": "/Cambridge IELTS 11/CD 1/IELTS11_Test1_Section3.mp3"
+          },
+          {
+            "section_number": 4,
+            "transcript": "Section 4: Lecture on ocean biodiversity. Discussion of the importance of marine life, threats to biodiversity, and conservation strategies.",
+            "audio_url": "/Cambridge IELTS 11/CD 1/IELTS11_Test1_Section4.mp3"
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The charts below show the percentage of water used for different purposes in six areas of the world. Summarize the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Governments should spend more money on education than on recreation and sports. To what extent do you agree or disagree? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 11 General Training",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Is Your Child at School Today?",
+            "content": "School Attendance Information for Parents/Carers. Introduction: Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help: Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an 'unauthorised' absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child's school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence: If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child's absence as 'unauthorised', that is, as truancy. Most absences for acceptable reasons will be authorised by your child's school: Sickness; Unavoidable medical or dental appointments (if possible, arrange these for after school or during school holidays); An interview with a prospective employer or college; Exceptional family circumstances, such as bereavement; Days of religious observance. Your child's school will not authorise absence for the following reasons: Shopping during school hours; Day trips; Holidays which have not been agreed; Birthdays; Looking after brothers or sisters or ill relatives."
+          },
+          {
+            "passage_number": 2,
+            "title": "HOLIDAY APARTMENTS TO LET",
+            "content": "A Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes' walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C Sleeps 2+child. One-bedroom cottage (child's bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes' drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Superb local golf courses within easy reach. E Sleeps 2-4. Modern one-bedroom first floor apartment in house, owners resident on ground floor. This great location offers easy access to all that this fantastic town has to offer, a few minutes' drive from its supermarket, bank, cafes, restaurants. The ferry to the island beach leaves from 100 m away. Ten minutes walk from the new shopping centre, which has many shops, food hall, cinema and multi-storey car park. F Sleeps 2. One-bedroom first floor apartment. Beautifully furnished, offering a high standard of comfort. Situated in a peaceful location on the edge of an inland village, with attractive views of the golf course. Many restaurants, bars, shops etc. are within easy walking distance. Garage available by arrangement with the owners. G Sleeps 2-4. Two-bedroom apartment in central location in busy street with shops, restaurants etc. not far from the beach. The town has ideal facilities for holidays all year round, including swimming pool, tennis courts and golf course."
+          },
+          {
+            "passage_number": 3,
+            "title": "GZJ Travel - Recruitment Info",
+            "content": "We're looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here's how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you'll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you're interested in a career as a Corporate Travel Consultant, you'll need at least one year's experience as a Travel Consultant. If you reach Stage Two, we'll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we'll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you'll attend with a small group of other applicants. We'll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You'll also be required to complete a psychometric test so we can find out more about your working style and characteristics. We'll also tell you about some of the perks - for example, as a Flight Center employee you can take advantage of the free consultations conducted by our in-house health and wellbeing team, Healthwise. Next, in Stage Four, you'll be introduced to the Area Leader and you'll also visit one of our shops, where you'll meet the team and find out more about the sort of work that's involved. If you successfully pass Stage Four, you've reached the final stage of the process and we'll be in touch with a job offer! And if you accept, we'll book you into our Learning Center to get your training under way as soon as possible. Careerwise, the department responsible for the training, will then organise individual coaching to assist in setting goals for your career path."
+          }
+        ],
+        "listening": [],
+        "writing": []
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 12",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Cork",
+            "content": "Cork - the thick bark of the cork oak tree (Quercus suber) - is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals. And the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20\u00b0C all year round. Albeit a Mediterranean native, the cork oak thrives in warm, sunny regions with a minimum of 400 millimetres of rain a year, and no more than 800 millimetres. ... Most cork forests are family-owned. Many of these family businesses, and indeed of the export companies that buy the cork, have a long history of cork-producing. ... The bark is stripped from a cork oak, for the first time, when the tree is about 25 years old. This first harvest is known as 'virgin' cork. ... Cork's monopoly of the bottle-stopper market is being challenged by two plastic and aluminum (screw cap) alternatives."
+          },
+          {
+            "passage_number": 2,
+            "title": "Collecting as a hobby",
+            "content": "Collecting must be one of the most varied of human activities, and it's one that many of us maintain from early childhood through to old age. Even those who survive into adulthood without becoming compulsive collectors of anything at all often admit that they used to collect something as a child. ... Some people collect as an investment. For example, antiques and other scarce items may appreciate in value over time. Others collect because it provides a way of interacting with people who share their interests. ... Another motive for collecting is the desire to find something special, or a particular example of the collected item, such as a rare stamp. ... A variant on this is the desire to find as many different examples as possible of a certain type of object - this might provide a sense of control, perhaps as a way of dealing with insecurity."
+          },
+          {
+            "passage_number": 3,
+            "title": "The psychology of innovation",
+            "content": "Innovation is key to business survival, and companies put substantial resources into inspiring employees to develop new ideas. There are, nevertheless, people who remain sceptical about the value of such efforts. ... One of the most famous photographs in the history of business shows an environment that was designed to promote innovation. In the late 1940s, a group of scientists at Bell Labs in the US were working on a new type of amplifier. ... Innovation is also about leadership. A manager who wants to encourage innovation needs to understand how individuals respond to change and pressure. ... Research by Harvard Business School professor Teresa Amabile shows that when people feel they are being watched, they are less likely to come up with creative solutions. ... Similarly, research suggests that groups are better at solving problems when they are composed of people with different perspectives."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "OFFICER: Good morning. What can I do for you?\nWOMAN: I\u2019m interested in doing a cookery course. I\u2019ve seen some information about your school. \nOFFICER: Which one are you interested in? We have a variety of courses, from beginner to advanced.\nWOMAN: I\u2019m looking for a course for my daughter. She's 11. \nOFFICER: We have a \u2018Junior Chef\u2019 course specifically for 10 to 14-year-olds. It\u2019s held on Saturdays from 10 am to 1 pm.\nWOMAN: That sounds perfect. What does it cost?\nOFFICER: It\u2019s \u00a3110 for the six-week term. That includes all the ingredients and use of the equipment."
+          },
+          {
+            "section_number": 2,
+            "transcript": "Good morning. I\u2019m the town planner for the city council, and I\u2019m here to tell you about some of the changes we\u2019re making to the traffic system in the local area. As you know, there\u2019s been a lot of concern about the volume of traffic on the main road, and the number of accidents that have occurred. To address this, we\u2019re proposing to introduce a number of measures. First, we\u2019re going to install a series of speed cameras along the road to encourage drivers to slow down. We\u2019re also going to introduce a new one-way system in some of the side streets to reduce congestion. And we\u2019re planning to build a new cycle lane to make it safer for people to cycle to work and school."
+          },
+          {
+            "section_number": 3,
+            "transcript": "TUTOR: So, let\u2019s talk about your project on seed banks. How\u2019s it going?\nSTUDENT A: It\u2019s going well. We\u2019ve done a lot of research into the different types of seed banks around the world.\nSTUDENT B: We were particularly interested in the Svalbard Global Seed Vault in Norway. It\u2019s built into a mountainside in the Arctic and is designed to store seeds from all over the world in case of a global catastrophe.\nTUTOR: That\u2019s a fascinating topic. What have you found out about the conditions inside the vault?\nSTUDENT A: The seeds are kept at a temperature of minus 18 degrees Celsius, and they\u2019re stored in vacuum-packed bags to keep them dry."
+          },
+          {
+            "section_number": 4,
+            "transcript": "In today\u2019s lecture, I\u2019m going to look at the effects of noise on productivity in the workplace. There\u2019s a lot of evidence to suggest that high levels of noise can have a negative impact on our ability to concentrate and perform tasks effectively. One study found that office workers who were exposed to loud noise were more likely to make mistakes and were less productive than those who worked in a quiet environment. Noise can also lead to increased stress levels, which can have a long-term impact on our health. However, it\u2019s not just the volume of noise that\u2019s important; the type of noise also matters. For example, some people find that background music can actually help them to concentrate, while others find it distracting."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The graph below shows the number of tourists visiting a particular Caribbean island between 2007 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "In some countries, young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this. Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 13",
+    "tests": [],
+    "status": "No content extracted",
+    "reason": "The provided text snippet consists entirely of a repeated website watermark (ThichTiengAnh.Com) and does not contain any Reading passages, Listening transcripts, or Writing tasks."
+  },
+  {
+    "book": "Cambridge IELTS 14",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "THE IMPORTANCE OF CHILDREN\u2019S PLAY",
+            "content": "Brick by brick, six-year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and fire-breathing dragons, she is oblivious to her surroundings. Play is often seen as a simple leisure activity, but for Alice and millions of other children, it is a vital part of development. Researchers like Dr. David Whitebread from the University of Cambridge argue that play is a powerful way to learn. It allows children to practice social skills, regulate their emotions, and develop creative problem-solving abilities. In recent decades, however, play time has decreased as academic pressure and digital entertainment have increased. The passage explores how varied forms of play\u2014from physical play to symbolic play\u2014contribute to cognitive growth and how the loss of play might affect future generations."
+          },
+          {
+            "passage_number": 2,
+            "title": "THE GROWTH OF BIKE-SHARING SCHEMES AROUND THE WORLD",
+            "content": "The first bike-sharing scheme, known as the 'White Bikes', was launched in Amsterdam in 1965. It was a failure because the bikes were either stolen or thrown into the canals. However, the concept evolved significantly over the next few decades. By the 1990s, more sophisticated systems using coins and smart cards were introduced in Denmark and France. The real turning point came with the development of GPS and mobile technology. Today, cities like Hangzhou and Paris host thousands of bikes that can be unlocked via smartphone apps. The text discusses the environmental benefits of reducing urban congestion and the challenges schemes face, such as vandalism and the logistical 'rebalancing' of bike distribution across cities."
+          },
+          {
+            "passage_number": 3,
+            "title": "MOTIVATIONAL FACTORS AND THE HOSPITALITY INDUSTRY",
+            "content": "The hospitality industry is notorious for high staff turnover rates. To address this, managers must understand what motivates employees beyond just financial compensation. Research suggests that 'intrinsic' factors, such as a sense of achievement and recognition, are often more effective than 'extrinsic' rewards like bonuses. The passage examines several case studies where hotels and restaurants improved retention by fostering a supportive work environment and providing clear career progression paths. It concludes that a combination of organizational culture, managerial support, and employee empowerment is essential for maintaining a stable and motivated workforce in the demanding service sector."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "OFFICER: Good morning, what can I do for you?\nWOMAN: I\u2019d like to report a theft. My bag was stolen this morning.\nOFFICER: I'm sorry to hear that. I\u2019ll need some details. Where did it happen?\nWOMAN: In the Main Street, near the library. I was sitting on a bench.\nOFFICER: And what time was this?\nWOMAN: Around 10:30 AM.\nOFFICER: Can you describe the bag?\nWOMAN: It was a small leather shoulder bag, dark brown. It had my wallet, keys, and a silver necklace inside.\nOFFICER: Did you see the person who took it?\nWOMAN: Not clearly. Just someone on a bicycle riding away very fast."
+          },
+          {
+            "section_number": 2,
+            "transcript": "GUIDE: Welcome to the Indrelow Heritage Site. My name is Mark, and I\u2019ll be your coordinator. We are delighted you\u2019ve volunteered to help preserve this historic area. To your left, you can see the old forge, which is currently being restored. Volunteers will be divided into three groups. Group A will focus on clearing the overgrown path near the river. Group B will assist with the visitor center's archives, and Group C will help with gardening in the Victorian herb garden. Please ensure you wear sturdy boots and gloves, which are provided in the shed behind me. We\u2019ll break for lunch at 12:30."
+          },
+          {
+            "section_number": 3,
+            "transcript": "TUTOR: Hello, Rosie and Martin. How is your presentation on the 'Marine Renewables' project coming along?\nROSIE: We\u2019ve done most of the research, but we\u2019re struggling with the structure.\nMARTIN: We weren't sure whether to focus more on tidal energy or wave energy.\nTUTOR: I\u2019d suggest giving an overview of both, then focusing on the case study in Scotland.\nROSIE: That makes sense. We found some interesting data on the environmental impact on local sea life.\nMARTIN: Yes, but we need to make sure our visuals\u2014the charts and diagrams\u2014are clear for the rest of the class. Should we use the video clip we found?\nTUTOR: Only if it's short. Don't let it take up more than two minutes."
+          },
+          {
+            "section_number": 4,
+            "transcript": "LECTURER: Today we are looking at the history of the early mapping of Australia. In the 17th century, Dutch explorers were the first Europeans to chart the western coast. However, they found the land barren and inhospitable. It wasn't until 1770 that Captain James Cook reached the fertile east coast. The mapping process was arduous, relying on celestial navigation and crude chronometers. These early maps were not just geographical records; they were tools of empire and trade. Recent discoveries of Portuguese charts suggest that some areas may have been reached even earlier, though this remains a subject of intense debate among historians."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "The chart below shows the percentage of people in the UK who consumed the recommended five portions of fruit and vegetables per day in 2001, 2004, 2007, and 2008. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "Cambridge IELTS 15",
+    "tests": [
+      {
+        "test_number": 1,
+        "reading": [
+          {
+            "passage_number": 1,
+            "title": "Nutmeg \u2013 a valuable spice",
+            "content": "The nutmeg tree, Myristica fragrans, is a large evergreen tree native to Southeast Asia. Until the late 18th century, it only grew in one place in the world: a small group of islands in the Banda Sea, part of the Moluccas \u2013 or Spice Islands \u2013 in northeastern Indonesia. The tree is thickly branched with dense foliage of tough, dark green oval leaves, and produces small, yellow, bell-shaped flowers and pale yellow pear-shaped fruits. The fruit is encased in a fleshy husk. When the fruit is ripe, this husk splits into two halves along a ridge running the length of the fruit. Inside is a purple-brown shiny seed, 2\u20133 cm long by about 2 cm across, surrounded by a lacy red or crimson covering called an \u2018aril\u2019. These are the sources of the two spices nutmeg and mace, the former being produced from the dried seed and the latter from the aril.\n\nNutmeg was a highly prized and costly ingredient in European cuisine in the Middle Ages, and was used as a flavouring, medicinal, and preservative agent. Throughout this period, the Arabs were the exclusive importers of the spice to Europe. They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity. The Arab-Venetian dominance of the trade finally ended in 1512, when the Portuguese reached the Banda Islands and began exploiting its precious resources.\n\nAlways in danger of competition from neighbouring Spain, the Portuguese began subcontracting their spice distribution to Dutch traders. Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into one of the largest in the world. The Dutch quietly gained control of most of the shipping and trading of spices in Northern Europe. Then, in 1580, Portugal fell under Spanish rule, and by the end of the 16th century the Dutch found themselves locked out of the market. As prices for pepper, nutmeg, and other spices soared across Europe, they decided to fight back.\n\nIn 1602, Dutch merchants founded the VOC, a trading corporation better known as the Dutch East India Company. By 1617, the VOC was the richest commercial operation in the world. The company had 50,000 employees worldwide, with a private army of 30,000 men and a fleet of 200 ships. At the same time, thousands of people across Europe were dying of the plague, a highly contagious and deadly disease. Doctors were desperate for a way to stop the spread of this disease, and they decided nutmeg held the cure. Everybody wanted nutmeg, and many were willing to spare no expense to have it. Nutmeg bought for a few pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London. The only problem was the short supply. And that\u2019s where the Dutch found their opportunity.\n\nThe Banda Islands were ruled by local sultans who insisted on maintaining a neutral trading policy towards foreign powers. This allowed them to avoid the presence of Portuguese or Spanish troops on their soil, but it also left them unprotected from other invaders. In 1621, the Dutch arrived and took over. Once securely in control of the Bandas, the Dutch went to work protecting their new investment. They concentrated all nutmeg production into a few easily guarded areas, uprooting and destroying any trees outside the plantation zones. Anyone caught growing a nutmeg seedling or carrying seeds without the proper authority was severely punished. In addition, all exported nutmeg was covered with lime to make sure there was no chance a fertile seed which could be grown elsewhere would leave the islands. There was only one obstacle to Dutch domination. One of the Banda Islands, a sliver of land called Run, only 3 km long by less than 1 km wide, was under the control of the British. After decades of fighting for control of this tiny island, the Dutch and British arrived at a compromise settlement, the Treaty of Breda, in 1667. Intent on securing their hold over every nutmeg-producing island, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America. The British agreed. That other island was Manhattan, which is how New Amsterdam became New York. The Dutch now had a monopoly over the nutmeg trade which would last for another century.\n\nThen, in 1770, a Frenchman named Pierre Poivre successfully smuggled nutmeg plants to safety in Mauritius, an island off the coast of Africa. Some of these were later exported to the Caribbean where they thrived, especially on the island of Grenada. Next, in 1778, a volcanic eruption in the Banda region caused a tsunami that wiped out half the nutmeg groves. Finally, in 1809, the British returned to Indonesia and seized the Banda Islands by force. They returned the islands to the Dutch in 1817, but not before transplanting hundreds of nutmeg seedlings to plantations in several locations across southern Asia. The Dutch nutmeg monopoly was over.\n\nToday, nutmeg is grown in Indonesia, the Caribbean, India, Malaysia, Papua New Guinea and Sri Lanka, and world nutmeg production is estimated to average between 10,000 and 12,000 tonnes per year."
+          },
+          {
+            "passage_number": 2,
+            "title": "Not present in snippet",
+            "content": "Full content for Reading Passage 2 was not provided in the text snippet."
+          },
+          {
+            "passage_number": 3,
+            "title": "Not present in snippet",
+            "content": "Full content for Reading Passage 3 was not provided in the text snippet."
+          }
+        ],
+        "listening": [
+          {
+            "section_number": 1,
+            "transcript": "Full transcript not provided in snippet. Context: Bankside Recruitment Agency (Questions 1\u201310)."
+          },
+          {
+            "section_number": 2,
+            "transcript": "Full transcript not provided in snippet. Context: Matthews Island Holidays (Questions 11\u201320)."
+          },
+          {
+            "section_number": 3,
+            "transcript": "Full transcript not provided in snippet. Context: Personality traits and family position research (Questions 21\u201330)."
+          },
+          {
+            "section_number": 4,
+            "transcript": "Full transcript not provided in snippet. Context: The Eucalyptus Tree in Australia (Questions 31\u201340)."
+          }
+        ],
+        "writing": [
+          {
+            "task_number": 1,
+            "prompt": "Task 1 prompt not present in snippet."
+          },
+          {
+            "task_number": 2,
+            "prompt": "Task 2 prompt not present in snippet."
+          }
+        ]
+      }
+    ]
+  }
+]

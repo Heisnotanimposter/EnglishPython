@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 12",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "Cork",
+          "content": "Cork - the thick bark of the cork oak tree (Quercus suber) - is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals. And the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20\u00b0C all year round. Albeit a Mediterranean native, the cork oak thrives in warm, sunny regions with a minimum of 400 millimetres of rain a year, and no more than 800 millimetres. ... Most cork forests are family-owned. Many of these family businesses, and indeed of the export companies that buy the cork, have a long history of cork-producing. ... The bark is stripped from a cork oak, for the first time, when the tree is about 25 years old. This first harvest is known as 'virgin' cork. ... Cork's monopoly of the bottle-stopper market is being challenged by two plastic and aluminum (screw cap) alternatives."
+        },
+        {
+          "passage_number": 2,
+          "title": "Collecting as a hobby",
+          "content": "Collecting must be one of the most varied of human activities, and it's one that many of us maintain from early childhood through to old age. Even those who survive into adulthood without becoming compulsive collectors of anything at all often admit that they used to collect something as a child. ... Some people collect as an investment. For example, antiques and other scarce items may appreciate in value over time. Others collect because it provides a way of interacting with people who share their interests. ... Another motive for collecting is the desire to find something special, or a particular example of the collected item, such as a rare stamp. ... A variant on this is the desire to find as many different examples as possible of a certain type of object - this might provide a sense of control, perhaps as a way of dealing with insecurity."
+        },
+        {
+          "passage_number": 3,
+          "title": "The psychology of innovation",
+          "content": "Innovation is key to business survival, and companies put substantial resources into inspiring employees to develop new ideas. There are, nevertheless, people who remain sceptical about the value of such efforts. ... One of the most famous photographs in the history of business shows an environment that was designed to promote innovation. In the late 1940s, a group of scientists at Bell Labs in the US were working on a new type of amplifier. ... Innovation is also about leadership. A manager who wants to encourage innovation needs to understand how individuals respond to change and pressure. ... Research by Harvard Business School professor Teresa Amabile shows that when people feel they are being watched, they are less likely to come up with creative solutions. ... Similarly, research suggests that groups are better at solving problems when they are composed of people with different perspectives."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "OFFICER: Good morning. What can I do for you?\nWOMAN: I\u2019m interested in doing a cookery course. I\u2019ve seen some information about your school. \nOFFICER: Which one are you interested in? We have a variety of courses, from beginner to advanced.\nWOMAN: I\u2019m looking for a course for my daughter. She's 11. \nOFFICER: We have a \u2018Junior Chef\u2019 course specifically for 10 to 14-year-olds. It\u2019s held on Saturdays from 10 am to 1 pm.\nWOMAN: That sounds perfect. What does it cost?\nOFFICER: It\u2019s \u00a3110 for the six-week term. That includes all the ingredients and use of the equipment."
+        },
+        {
+          "section_number": 2,
+          "transcript": "Good morning. I\u2019m the town planner for the city council, and I\u2019m here to tell you about some of the changes we\u2019re making to the traffic system in the local area. As you know, there\u2019s been a lot of concern about the volume of traffic on the main road, and the number of accidents that have occurred. To address this, we\u2019re proposing to introduce a number of measures. First, we\u2019re going to install a series of speed cameras along the road to encourage drivers to slow down. We\u2019re also going to introduce a new one-way system in some of the side streets to reduce congestion. And we\u2019re planning to build a new cycle lane to make it safer for people to cycle to work and school."
+        },
+        {
+          "section_number": 3,
+          "transcript": "TUTOR: So, let\u2019s talk about your project on seed banks. How\u2019s it going?\nSTUDENT A: It\u2019s going well. We\u2019ve done a lot of research into the different types of seed banks around the world.\nSTUDENT B: We were particularly interested in the Svalbard Global Seed Vault in Norway. It\u2019s built into a mountainside in the Arctic and is designed to store seeds from all over the world in case of a global catastrophe.\nTUTOR: That\u2019s a fascinating topic. What have you found out about the conditions inside the vault?\nSTUDENT A: The seeds are kept at a temperature of minus 18 degrees Celsius, and they\u2019re stored in vacuum-packed bags to keep them dry."
+        },
+        {
+          "section_number": 4,
+          "transcript": "In today\u2019s lecture, I\u2019m going to look at the effects of noise on productivity in the workplace. There\u2019s a lot of evidence to suggest that high levels of noise can have a negative impact on our ability to concentrate and perform tasks effectively. One study found that office workers who were exposed to loud noise were more likely to make mistakes and were less productive than those who worked in a quiet environment. Noise can also lead to increased stress levels, which can have a long-term impact on our health. However, it\u2019s not just the volume of noise that\u2019s important; the type of noise also matters. For example, some people find that background music can actually help them to concentrate, while others find it distracting."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The graph below shows the number of tourists visiting a particular Caribbean island between 2007 and 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "In some countries, young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this. Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+        }
+      ]
+    }
+  ]
+}

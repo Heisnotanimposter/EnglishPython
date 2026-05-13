@@ -1,0 +1,53 @@
+{
+  "book": "Cambridge IELTS 06",
+  "tests": [
+    {
+      "test_number": 1,
+      "reading": [
+        {
+          "passage_number": 1,
+          "title": "Australia\u2019s Sporting Success",
+          "content": "They sport light-blue and yellow jerseys. They are Australia\u2019s national sporting heroes. After every Olympics, Australian politicians seize the opportunity to congratulate the athletes. However, the country\u2019s sporting success is not just about natural talent; it is the result of a highly sophisticated system. The Australian Institute of Sport (AIS) in Canberra is the heart of this system. It was set up in 1981 to provide elite athletes with world-class facilities and coaching. Today, the AIS employs more than 100 sport scientists and doctors. They use advanced technology to analyze every movement of an athlete, from the angle of a swimmer's hand to the force exerted by a cyclist's legs. This scientific approach, combined with decentralized funding and rigorous talent identification programs, has allowed a nation with a relatively small population to dominate international leaderboards consistently."
+        },
+        {
+          "passage_number": 2,
+          "title": "Delivering the Goods",
+          "content": "The nature of international trade has changed dramatically over the last few decades. The volume of world trade has grown much faster than the world economy as a whole. One reason for this is the revolution in transportation. The introduction of the shipping container in the 1950s made it significantly cheaper and faster to move goods across oceans. Previously, loading and unloading ships was a labor-intensive and time-consuming process. Now, standardized containers can be moved seamlessly from ships to trucks and trains. Additionally, the liberalization of trade through international agreements has lowered tariffs and removed barriers. While manufacturing has moved to countries with lower labor costs, the efficiency of modern logistics ensures that products can still be delivered to consumers globally at competitive prices."
+        },
+        {
+          "passage_number": 3,
+          "title": "Climate Change and the Inuit",
+          "content": "The Inuit people of the Arctic are on the front lines of climate change. For centuries, they have lived in harmony with one of the harshest environments on Earth. However, the rapid melting of sea ice is threatening their traditional way of life. The ice is not just a frozen surface; it is a platform for hunting seals and polar bears, which are essential for the Inuit diet and economy. As the ice thins and disappears earlier in the spring, hunting becomes more dangerous and less productive. Scientists observe that the Arctic is warming at twice the rate of the rest of the world. This warming is also causing permafrost to melt, leading to the erosion of coastlines and the collapse of infrastructure. The Inuit are now forced to adapt to a rapidly changing landscape, balancing their traditional knowledge with the modern scientific reality of global warming."
+        }
+      ],
+      "listening": [
+        {
+          "section_number": 1,
+          "transcript": "OFFICER: Good morning, I\u2019m from the local council. We\u2019re conducting a survey on transport in the area. Do you have a few minutes? \nMAN: Yes, sure. \nOFFICER: Great. First, can I have your name? \nMAN: It\u2019s Peter Flemming. \nOFFICER: And your address? \nMAN: 27, Riverside Terrace. \nOFFICER: Thank you. Now, how do you usually travel to work? \nMAN: I usually take the bus, but if the weather is nice, I cycle. \nOFFICER: And how satisfied are you with the bus service? \nMAN: Generally, it\u2019s okay, but the buses are often late during rush hour, and the fares have gone up recently."
+        },
+        {
+          "section_number": 2,
+          "transcript": "GUIDE: Welcome to the new City Library. We are proud to open this facility to the public today. On the ground floor, you will find the main lending library and the children\u2019s section. If you look to your right, the caf\u00e9 serves light snacks and beverages. The first floor is dedicated to reference materials and our extensive collection of local history books. We also have a suite of thirty computers available for public use. To use them, you just need to scan your membership card. Our digital archives include newspapers dating back to the late 19th century, which are excellent for genealogical research."
+        },
+        {
+          "section_number": 3,
+          "transcript": "TUTOR: Hello, Sarah, James. I\u2019ve looked at the draft of your presentation on marketing. \nSARAH: What did you think? \nTUTOR: It\u2019s a good start, but you need to narrow your focus. You\u2019ve tried to cover too many industries. \nJAMES: We thought it would be better to show a broad range. \nTUTOR: I understand, but it makes the analysis a bit superficial. I suggest you focus on the retail sector, specifically supermarkets. \nSARAH: That makes sense. We can look at how they use loyalty cards to track consumer behavior. \nTUTOR: Exactly. That will give you more data to work with."
+        },
+        {
+          "section_number": 4,
+          "transcript": "LECTURER: Today, we are discussing the physiological and psychological effects of noise. In urban environments, noise pollution is a growing concern. Chronic exposure to high levels of noise can lead to increased stress levels and cardiovascular issues. Research has shown that noise triggers the body\u2019s 'fight or flight' response, releasing hormones like cortisol. Furthermore, noise can significantly impact cognitive performance, especially in children. Schools located near busy airports or highways often report lower reading scores among students. We must consider urban planning solutions, such as sound barriers and green spaces, to mitigate these harmful effects."
+        }
+      ],
+      "writing": [
+        {
+          "task_number": 1,
+          "prompt": "The graph below shows the amount of carbon dioxide emissions per person in four European countries between 1967 and 2007. Summarize the information by selecting and reporting the main features, and make comparisons where relevant."
+        },
+        {
+          "task_number": 2,
+          "prompt": "Today, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold. To what extent do you agree or disagree?"
+        }
+      ]
+    }
+  ]
+}
